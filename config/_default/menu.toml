@@ -2,23 +2,23 @@
 #[[main]]
 #identifier = "home"
 #name = "Home"
-#url = "/"
+#url = ""
 #[main.params]
 #icon = "home"
 #newtab = true
 
 [[social]]
 identifier = "github"
-name = "GitHub"
-url = "https://github.com/CaiJimmy/hugo-theme-stack"
+name = "Union Website"
+url = "https://www.imperialcollegeunion.org/activities/a-to-z/mountaineering"
 
 [social.params]
 icon = "brand-github"
 
-[[social]]
-identifier = "twitter"
-name = "Twitter"
-url = "https://twitter.com"
+#[[social]]
+#identifier = "twitter"
+#name = "Twitter"
+#rl = "https://twitter.com"
 
-[social.params]
-icon = "brand-twitter"
+#[social.params]
+#icon = "brand-twitter"
