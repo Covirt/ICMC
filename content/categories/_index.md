@@ -1,6 +1,6 @@
 ---
 title: Expedition
-description: A description of this category
+description: Members sometimes organise large expedition to unique locations!
 image:
 
 # Badge style
@@ -9,7 +9,7 @@ style:
     color: "#fff"
 
 title: Winter Tour
-description: A description of this category
+description: Every winter, ICMC goes to Scotland to go ice climbing
 image:
 
 # Badge style
