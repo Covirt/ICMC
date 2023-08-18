@@ -1,13 +1,13 @@
 ---
-title: Hello World
-description: Welcome to Hugo Theme Stack
-slug: hello-world
-date: 2022-03-06 00:00:00+0000
+title: Winter Tour 2022
+description: Once again, ICMC goes to Scotland
+slug: winter-tour
+date: 2022-12-19
 image: cover.jpg
 categories:
-    - Example Category
+    - Winter Tour
 tags:
-    - Example Tag
+    - Scotland
 ---
 
 Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
@@ -16,4 +16,7 @@ For more information about this theme, check the documentation: https://docs.sta
 
 Want a site like this? Check out [hugo-theme-stack-stater](https://github.com/CaiJimmy/hugo-theme-stack-starter)
 
-> Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/)
+![Image 1](image1.jpg) ![Image 2](image1.jpg)
+![Image 3](image1.jpg)
+
+> Photo by Pawel Czerwinski
