@@ -9,7 +9,7 @@ categories:
 tags:
     - Scotland
 
-#{{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
+#
 ---
 
 Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
@@ -18,7 +18,6 @@ For more information about this theme, check the documentation: https://docs.sta
 
 Want a site like this? Check out [hugo-theme-stack-stater](https://github.com/CaiJimmy/hugo-theme-stack-starter)
 
-![Image 1](image1.jpg) ![Image 2](image1.jpg)
-![Image 3](image1.jpg)
+{{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
 
 > Photo by Pawel Czerwinski
