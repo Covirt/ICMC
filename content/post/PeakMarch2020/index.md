@@ -8,6 +8,7 @@ categories:
     - Weekend Trip
 tags:
     - Peak District
+    - Trad Climbing
 ---
 
 > This Report dates from before this website

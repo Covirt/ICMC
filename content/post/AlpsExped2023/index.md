@@ -8,6 +8,7 @@ categories:
     - Expedition
 tags:
     - Alps
+    - Mountaineering
 ---
 
 Over the summer of 2023, some members of ICMC organised a expedition to the Alps to do some mountaineering.
