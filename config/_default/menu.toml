@@ -13,12 +13,13 @@ name = "Union Website"
 url = "https://www.imperialcollegeunion.org/activities/a-to-z/mountaineering"
 
 [social.params]
-icon = "brand-github"
+icon = "school"
 
-#[[social]]
-#identifier = "twitter"
-#name = "Twitter"
-#rl = "https://twitter.com"
 
-#[social.params]
-#icon = "brand-twitter"
+[[social]]
+identifier = "instagram"
+name = "Instagram"
+url = "https://www.instagram.com/ic_mountaineering/"
+
+[social.params]
+icon = "brand-instagram"
