@@ -16,8 +16,6 @@ For more information about this theme, check the documentation: https://docs.sta
 
 Want a site like this? Check out [hugo-theme-stack-stater](https://github.com/CaiJimmy/hugo-theme-stack-starter)
 
-{{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}
-
 And see below one of the coolest videos
 {{< video src="test-vid.mp4" autoplay="true">}}
 
