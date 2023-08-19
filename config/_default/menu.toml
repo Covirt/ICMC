@@ -7,6 +7,9 @@
 #icon = "home"
 #newtab = true
 
+#icons located here https://tablericons.com/
+
+
 [[social]]
 identifier = "github"
 name = "Union Website"

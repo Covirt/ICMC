@@ -19,4 +19,6 @@ Want a site like this? Check out [hugo-theme-stack-stater](https://github.com/Ca
 ![Image 1](image1.jpg) ![Image 2](image1.jpg)
 ![Image 3](image1.jpg)
 
+{{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
+
 > Photo by Pawel Czerwinski
