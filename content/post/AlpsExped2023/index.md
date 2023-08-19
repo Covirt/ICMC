@@ -10,13 +10,15 @@ tags:
     - Alps
 ---
 
-Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
+Over the summer of 2023, some members of ICMC organised a expedition to the Alps to do some mountaineering.
 
-For more information about this theme, check the documentation: https://docs.stack.jimmycai.com/
+The following members participated in this expedition:
 
-Want a site like this? Check out [hugo-theme-stack-stater](https://github.com/CaiJimmy/hugo-theme-stack-starter)
+- First item
+- Second item
+- Third item
+- Fourth item
 
-![Image 1](image1.jpg) ![Image 2](image1.jpg)
-![Image 3](image1.jpg)
+{{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}
 
-> Photo by Pawel Czerwinski
+> Photo were submitted by George, Ben and Chorley
