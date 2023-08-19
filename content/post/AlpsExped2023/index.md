@@ -13,13 +13,6 @@ tags:
 
 Over the summer of 2023, some members of ICMC organised a expedition to the Alps to do some mountaineering.
 
-The following members participated in this expedition:
-
-- First item
-- Second item
-- Third item
-- Fourth item
-
 {{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}
 
 > Photo were submitted by George, Ben and Chorley
