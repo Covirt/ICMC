@@ -1,7 +1,7 @@
 ## Hugo Theme Stack Starter Template
 
 Documentation: https://stack.jimmycai.com/config/footer
-
+Gallery Shortcode explanation: https://github.com/mfg92/hugo-shortcode-gallery
 
 This is a quick start template for [Hugo theme Stack](https://github.com/CaiJimmy/hugo-theme-stack). It uses [Hugo modules](https://gohugo.io/hugo-modules/) feature to load the theme.
 
