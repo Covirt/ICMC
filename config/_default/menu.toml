@@ -13,7 +13,7 @@ name = "Union Website"
 url = "https://www.imperialcollegeunion.org/activities/a-to-z/mountaineering"
 
 [social.params]
-icon = "school"
+icon = "IC-Union"
 
 
 [[social]]
@@ -21,5 +21,16 @@ identifier = "instagram"
 name = "Instagram"
 url = "https://www.instagram.com/ic_mountaineering/"
 
+
 [social.params]
 icon = "brand-instagram"
+
+
+
+[[social]]
+identifier = "email"
+name = "Email"
+url = "mailto:mountain@imperial.ac.uk"
+
+[social.params]
+icon = "send"
