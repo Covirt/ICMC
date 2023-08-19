@@ -1,7 +1,7 @@
 ---
 title: Alps 2023 Expedition
 description: ICMC goes to the Alps
-slug: alps-exped
+slug: 
 date: 2023-07-25
 image: cover.jpg
 categories:

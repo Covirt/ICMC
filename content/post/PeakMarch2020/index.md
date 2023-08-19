@@ -1,7 +1,7 @@
 ---
 title: Peaks Trip Report March 2020
 description: Off to the Peak District, again...
-slug: peaks-trip
+slug: 
 date: 2020-03-01
 image: cover.jpg
 categories:

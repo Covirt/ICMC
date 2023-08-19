@@ -1,7 +1,7 @@
 ---
 title: Winter Tour 2022
 description: Once again, ICMC goes to Scotland
-slug: winter-tour
+slug: 
 date: 2022-12-19
 image: cover.jpg
 categories:
