@@ -7,7 +7,7 @@ image: cover.jpg
 categories:
     - Easter Tour
 tags:
-    - Easter Tour
+    - Kalymnos
     - Sport Climbing
 ---
 

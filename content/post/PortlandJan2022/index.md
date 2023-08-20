@@ -12,17 +12,11 @@ tags:
     - Bouldering
 ---
 
-> This Report dates from before this website
-
 ICMC went to Portland
 
 ## Report
 
-The first trip of 2022 marked the ICMC’s first return to the Isle of Portland, Dorset since
-2018. A lack of cheap accommodation (or motivation for camping) brought any previous
-plans to a standstill. This was changed by Vice-Pres George, who went above the call of
-duty by randomly dialling phone numbers in the Dorset region until he found a church hall for
-hire under the house of a vicar.
+The first trip of 2022 marked the ICMC’s first return to the Isle of Portland, Dorset since 2018. A lack of cheap accommodation (or motivation for camping) brought any previous plans to a standstill. This was changed by Vice-Pres George, who went above the call of duty by randomly dialling phone numbers in the Dorset region until he found a church hall for hire under the house of a vicar.
 
 {{< figure src="image1.png" width="500" >}}
 
@@ -36,28 +30,11 @@ Following a reasonable night’s sleep (one unidentified snorer must have slept 
 
 The boulderers had a strong day, with Asha, Callum and Jake (minus one foot) sending Anasazi Lost (7A), Callum sending Lightning Strike (7A+), and Asha and Jake sanding their hands down on Relativity (7A) to no avail. A larger group joined them from the upper cliffs to send Days of Colour (6A).
 
-The sport climbers moved on from the warmup to tackle various harder routes, namely Too
-Many Cooks (6b), Mousefolk (6c), Evening Mistress (6b). Rory made quick work of the
-Mermaid (7a), encouraging many others to follow suit (with more beta and fewer attempts;
-Will). Scarlett and Daisy worked their way around increasingly bold routes around the crag,
-culminating in a plan to multi-pitch some routes in the Bower buttress (see later on). Mellisa
-and Anaya taped up and worked their way up and down the Jam (4c offwidth), seemingly in
-search of the perfect jamming technique. Max and Mathilde surprised everyone by admitting
-they had yet to climb outdoors; following a tutoring session with George they went on their
-merry way and worked their way up the grades on offer around the crag. Will (belayed by
-Liam) worked on their fall/fall catching practice by working on Mousefolk (6c) and Perihelion
-(6b+). Despite a skin-sanding fall on the slabby layback of Mousefolk and a complete
-inverted ragdoll-like swing after the crux of Perihelion, Will walked away unharmed with an
-added trust in Liam’s belaying.
+The sport climbers moved on from the warmup to tackle various harder routes, namely Too Many Cooks (6b), Mousefolk (6c), Evening Mistress (6b). Rory made quick work of the Mermaid (7a), encouraging many others to follow suit (with more beta and fewer attempts; Will). Scarlett and Daisy worked their way around increasingly bold routes around the crag, culminating in a plan to multi-pitch some routes in the Bower buttress (see later on). Mellisa and Anaya taped up and worked their way up and down the Jam (4c offwidth), seemingly in search of the perfect jamming technique. Max and Mathilde surprised everyone by admitting they had yet to climb outdoors; following a tutoring session with George they went on their merry way and worked their way up the grades on offer around the crag. Will (belayed by Liam) worked on their fall/fall catching practice by working on Mousefolk (6c) and Perihelion (6b+). Despite a skin-sanding fall on the slabby layback of Mousefolk and a complete inverted ragdoll-like swing after the crux of Perihelion, Will walked away unharmed with an added trust in Liam’s belaying.
 
-Rory, Miguel and Ciaran psyched each other up to try out Modern Nightmare (7a), a long (for
-the cuttings) route split into a stiff bouldery start, a taxing section up a groove and a set of 3
-roofs with blind jugs. After figuring out the beta for the boulder (and most importantly
-realising the first bolt can be pre-clipped with a little jump!), all 3 were shut down by the roofs
-of the route which proved tricky to read (who would have guessed…).
+Rory, Miguel and Ciaran psyched each other up to try out Modern Nightmare (7a), a long (for the cuttings) route split into a stiff bouldery start, a taxing section up a groove and a set of 3 roofs with blind jugs. After figuring out the beta for the boulder (and most importantly realising the first bolt can be pre-clipped with a little jump!), all 3 were shut down by the roofs of the route which proved tricky to read (who would have guessed…).
 
-The club made their way back to the vicar’s house for atonements (i.e well earned rests). George expertly directed the kitchen, delivering two excellent chillis (vegi & meat) and impressively heterogenous rice, albeit a power cut to the cooker did almost cause havoc if not for his quick thinking (which will not be described here!). Liam decided the ICMC should instead be the Imperial College Melee Club, and demanded the right to wrestle Miguel in exchange for doing his fair share of the washing up. Pots were washed, crash pads were tesselated and Miguel promptly spent 15 minutes
-in various headlocks before Liam caught his breath and ended up in an armbar. Excited by the atmosphere, Ciaran and Callum had their own match, which Callum later describes as: “an experience. Interesting.” (interpret this as you wish). After a drawn-out match between Ciaran and Miguel which ended with some sore finger tendons, Liam decided a champion had to be declared and challenged Ciaran to a final match. After a near-instant headlock, the ICMC returned to being a climbing club and Liam put his ambitions to rest (until the next trip!).
+The club made their way back to the vicar’s house for atonements (i.e well earned rests). George expertly directed the kitchen, delivering two excellent chillis (vegi & meat) and impressively heterogenous rice, albeit a power cut to the cooker did almost cause havoc if not for his quick thinking (which will not be described here!). Liam decided the ICMC should instead be the Imperial College Melee Club, and demanded the right to wrestle Miguel in exchange for doing his fair share of the washing up. Pots were washed, crash pads were tesselated and Miguel promptly spent 15 minutes in various headlocks before Liam caught his breath and ended up in an armbar. Excited by the atmosphere, Ciaran and Callum had their own match, which Callum later describes as: “an experience. Interesting.” (interpret this as you wish). After a drawn-out match between Ciaran and Miguel which ended with some sore finger tendons, Liam decided a champion had to be declared and challenged Ciaran to a final match. After a near-instant headlock, the ICMC returned to being a climbing club and Liam put his ambitions to rest (until the next trip!).
 
 Another uneventful night’s sleep passed, Ciaran awoke with a slightly bruised nose (on account of Liam’s heels, see picture above) and Miguel’s neck was reduced to 2 axes of motion. Nevertheless, the club got out of the hall and back to the cuttings for another day of hard sends.
 
