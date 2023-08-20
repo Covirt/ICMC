@@ -25,8 +25,16 @@ The team was keen to experience the beautiful scenery and climbing the region ha
 
 ## The Team
 
-(I am to put a table here)
-
+{{< table title="Optional title" class="optional CSS class declaration" id="optional- declaration-a-unique-one-will-be-generated" >}}
+| Stade | DFG (CKD-EPI) | Définition |
+|:-------:|:----------------------:|------------|
+| 1     | &gt; 90       | MRC avec DFG normal ou augmenté |
+| 2     | 60-89         | MRC avec DFG légèrement diminué |
+| 3A    | 45-59         | IRC modérée |
+| 3B    | 30-44         | IRC modérée |
+| 4     | 15-29         | IRC sévère  |
+| 5     | < 15          | IRC terminale |
+{{< /table >}}
 ## Tour Overview
 
 ### Day 0
