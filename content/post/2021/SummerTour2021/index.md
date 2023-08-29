@@ -3,7 +3,7 @@ title: "Summer Tour 2021"
 description: Fontainbleau bouldering
 slug: 
 date: 2021-01-02
-image: images/0.jpg
+image: cover.png
 categories:
     - Summer Tour
 tags:
