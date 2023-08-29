@@ -10,7 +10,7 @@ tags:
     - Spain
     - Mallorca
     - Sport
-    - Deep Water Solo.
+    - Deep Water Solo
 ---
 
 ## Introduction

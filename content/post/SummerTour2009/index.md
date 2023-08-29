@@ -10,7 +10,7 @@ tags:
     - Spain
     - Costa Blanca
     - Sport
-    - Deep Water Solo.
+    - Deep Water Solo
 ---
 
 ## Members who attended:
