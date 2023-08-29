@@ -8,7 +8,7 @@ categories:
     - Weekend Trip
 tags:
     - Snowdonia
-    - Trad Climbing
+    - Trad
 ---
 
 By Dave Robinson
