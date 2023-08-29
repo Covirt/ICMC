@@ -1,19 +1,17 @@
 ---
-title: Links
-links:
-  - title: Union Website
-    description: The Imperial College Union's website for the moutaineering club
-    website: https://www.imperialcollegeunion.org/activities/a-to-z/mountaineering
-    image: ICU.png
-    
-  - title: Instagram
-    description: The Mountaineering Club's Instagram Account
-    website: https://www.imperialcollegeunion.org/activities/a-to-z/mountaineering
-    image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png
+title: FAQs
 
 menu:
     main: 
-        weight: 4
+        weight: 3
         params:
-            icon: link
+            icon: question-mark
 ---
+
+## Where did my dad go?
+
+gbyifbuwdel
+
+## Why did he go get cigarettes?
+
+He doesn't even smoke
