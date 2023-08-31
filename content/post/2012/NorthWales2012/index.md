@@ -22,7 +22,7 @@ Only to be awoken at 5:30AM by the group that had booked the hut who had some di
 {{< figure src="images/1.jpg" width="300" caption="Tent in hut garden with ICMCs resident male model performing traditional club trip activities">}}
 
 
-## First day:
+## First day
 Despite the short and eventful sleep we set off for Ogwen early the next morning, only to come across a motorbike crash on the way. Fortunately there was a doctor and the mountain rescue team there and the best thing to do was to get out the way and resume our day of climbing.
 
 The group divided in two with one part going to do multi pitch and the other to sheep pen for bouldering. Will was an enforced boulder due to turning up at North Wales with only formal shoes.

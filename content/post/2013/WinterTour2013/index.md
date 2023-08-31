@@ -23,7 +23,7 @@ five students who took part in the introductory course, at least four of which w
 staying on Imperial fot at least another year, and so this was also a success.
 
 
-## Trip List:
+## Trip List
 - Jo Robbings
 - Tim Seers
 - Tom Wheeler
@@ -117,13 +117,13 @@ psyched for next year’s Scottish winter climbing already.
 
 ## Financial Breakdown
 
-### Income:
+### Income
 - Novice Members Contribution: £215
 - Experienced Members Contribution: £190
 - IC Trust Contribution: £232.80
 - Total: £2,472.80
 
-### Expenditure:
+### Expenditure
 - Minibus: £554.
 - Fuel: £450
 - Accommodation: £780

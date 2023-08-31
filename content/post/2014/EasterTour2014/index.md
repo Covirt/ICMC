@@ -137,7 +137,7 @@ Federico is wheeled away. Once everyone has explained to the security that Ben i
 the plane and everyone settles down. In London
 people say their goodbyes but only till term starts again.
 
-### Note to Reader:
+### Note to Reader
 
 It may seem that not a lot happened on this holiday but due to the vicinity and ease with which it
 was possible to climb nearly un ending number of routes, people spent most of the holiday revelling

@@ -13,7 +13,7 @@ tags:
     - Deep Water Solo
 ---
 
-## Members who attended:
+## Members who attended
 
 - Alistair Brash
 - Simon Partridge

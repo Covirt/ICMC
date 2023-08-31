@@ -14,7 +14,7 @@ tags:
 
 By: Ali
 
-## 14/10/2011:
+## 14/10/2011
 Work begins to get the first ever ICMC three minibus trip going in the morning with
 Joel, Kip, Murray and others completing an epic food shop. By around 4pm minibuses are in position
 outside Beit apart from bus 3 which turns out to be lacking a roof rack. Cue a quick cycling mission
@@ -31,7 +31,7 @@ everyone beds down ready for an early start. There is a minor diplomatic inciden
 members discover that the club’s new overlords have removed bacon & sausage from breakfast in
 the name of austerity. Forget bank bailouts, this is the front line of the recession right here.
 
-## 15/10/2011:
+## 15/10/2011
 
 Porridge time comes all too soon. It’s lacking in bacon. Egg is abandoned in the name of
 efficiency. On the upside, the buses leave in record time owing to lack of the faff of doing a fry-up for 50. Fresher nearly causes a bus-on-bus accident with an outrageous roundabout wrong-lane
@@ -93,7 +93,7 @@ arrives (no small task for 50) and is enjoyed by all. Sam turns up at around mid
 {{< figure src="images/5.jpg" width="300" caption="One of the many batches of cili required to feed 50 (thanks Luca!)">}}
 
 {{< figure src="images/3.jpg" width="300" caption="Lisa getting the goold hold post-crux on Crescent Arete (5+)">}}
-## 16/10/2011:
+## 16/10/2011
 
 Day breaks and it’s time for Stanage, the biggest crag in the Peak District. There’s egg
 and porridge for breakfast this time but thankfully not at the same time. Everyone packs up and

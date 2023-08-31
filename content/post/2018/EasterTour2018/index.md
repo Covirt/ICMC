@@ -13,7 +13,7 @@ tags:
 ---
 
 
-### Member Attendees:
+### Member Attendees
 
 Richard Metcalfe, Stuart McClune, Alex Smith, Charlotte Krishek, Kuran Pahwa, Hannah Nevill, Shan Pandya, Keeran Sivalingam, Nick Koukoulekidis, Mertcan Sevgi, Sean Barret, Suviti Chari.
 
@@ -115,7 +115,7 @@ incredible and well needed at the airport the following morning.
 Glassy eyed and a bit broken the group arose at 6am to travel home. At the airport the group
 wallowed in self-pity but no regrets at Burger King before boarding the flight back to London.
 
-### Cost Breakdown:
+### Cost Breakdown
 
 {{< table >}}
 | Income | Value  | 

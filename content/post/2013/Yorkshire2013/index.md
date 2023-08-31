@@ -14,7 +14,7 @@ tags:
 
 By Ruth Lawson
 
-## First day - Friday (8th March 2013):
+## First day - Friday (8th March 2013)
 
 17:41 – and the bus is off! Fully packed and we only forgot the map and first
 aid kit. Our impressive start was only foiled slightly by traffic jams and we
@@ -25,7 +25,7 @@ Murray declined his invitation. Ben, Sam and Will couldn’t decide which of
 them should be thrown out of the double bed and had an uncomfortable night’s
 sleep with minimal spooning.
 
-## Second day – Saturday:
+## Second day – Saturday
 
 6:15 – porridge making begins! Blinkers were put on by all trip attendees with
 possibly the quickest departure ever for a morning... all in vain as by the time
@@ -42,7 +42,7 @@ made in record time ready for the evening premier – ‘Vertical Limit’ a hig
 accurate documentary about mountain rescue.
 
 
-## Third day – Sunday:
+## Third day – Sunday
 
 After the overly keen wake up time and late bed time Ruth decided to have
 a lie in (07:30), but we still managed to have a highly efficient departure with
@@ -64,7 +64,7 @@ in Lugabaruga arriving back in the union for 12:15.
 
 Thanks to everyone for coming on this trip, it was a pleasure to run.
 
-## Trip list:
+## Trip list
 
 1. Ruth Lawson
 2. Andrew Wilkins

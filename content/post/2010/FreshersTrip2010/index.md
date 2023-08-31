@@ -13,7 +13,7 @@ tags:
 
 By James Lawson (kip)
 
-## The Journey:
+## The Journey
 Departure from the union was as swift as could be expected from over 40 people; two mini-buses, a car
 and a Landrover. Shopping was completed in the previous afternoon at ASDA to save money. The
 metal bus most importantly departed before outdoor club’s (S&G) singular bus.
@@ -23,7 +23,7 @@ Fortunately we were not involved in this so after a mere 4hr delay the speedy 62
 continued to tear it down the motorway. We arrived at the hall in Middleton at 3AM which
 considerably impacted on the psyche for any fun that night and we quickly went to sleep.
 
-## Day 1:
+## Day 1
 We headed for Lawrencefield/Millstone and the boulders to secret garden, along the way we asked for
 directions and played some more metal. At Lawrencefield Eliot jumped on Austin’s Variation (VS) and
 promptly took a >5M lob narrowly missing a ledge. Meanwhile the fresher’s had good safe fun
@@ -41,7 +41,7 @@ position as the cool bus stopped off for reduced bakery products. After a few ho
 wrestling with only minor injuries sustained we headed for bed.
 
 
-## Day 2:
+## Day 2
 After cooked breakfast we headed to Stanage. “V8 “fresher did Deliverance without too much effort;
 also Joe Prinold also did Deliverance (V8). Alistair, Chi and Joe did Greens Traverse (V6). Johan did an E
 that was defiantly E1. Kip did his first HVS lead after some failed attempts due to difficulties with the
@@ -55,7 +55,7 @@ said on the internet. The Journey back was uneventful apart from awesome 2 for �
 Loughborough.
 
 
-## Summary:
+## Summary
 
 The weather was great, the climbing was awesome and the pizza was tasty. Despite the traffic Jam
 tiredness the fresher’s trip was very fun. Everyone who is considering going on the Fresher’s trip next

@@ -13,7 +13,7 @@ tags:
     - Bouldering
 ---
 
-## Objectives:
+## Objectives
 
 The main objective was to have fun and everyone agreed that we'd met this goal.
 
@@ -25,7 +25,7 @@ and the high cost of entry. It is hoped that with the recent purchase of boots (
 outdoor club) will remove one of the most expensive purchases that aspiring mountaineers
 have to make (boots are ~£300) and will increase participation in this sport.
 
-## Attendees :
+## Attendees 
 
 - Jonathan Hazell
 - Ruth Lawson
@@ -37,7 +37,7 @@ have to make (boots are ~£300) and will increase participation in this sport.
 
 ## Tour Diary
 
-### Day one:
+### Day one
 
 Getting an early start for the 14 hour bus journey to Scotland we packed up the
 bus in record time and set off at 10am. Our excitement reached unprecedented levels
@@ -50,7 +50,7 @@ the discovery of cooking instructions, Tom had already wolfed the whole packet..
 Fortunately all was well, and much fun was had in Glasgow’s Tescos buying food before
 arriving at our palace for the week.
 
-### Day two:
+### Day two
 
 
 First day of climbing for the more experienced members and the first day of winter
@@ -62,7 +62,7 @@ iceaxes, self belays and self arrests. The day was tiring but great fun. Kevin t
 novices back to the palace and we got started on food. Roast pork with potatoes and veg.
 Parsons and friends arrived late in the evening.
 
-### Day Three:
+### Day Three
 
 Again the older members went to do some climbing of their own before having to
 supervise the novices. Kevin and the novices set off up a grade I climb, with Tom, Ben,
@@ -74,7 +74,7 @@ The novices got down early again and got on with food, Roast lamb shoulder (redu
 Tesco) with rice, mash and veg. Parsons’ crew were impressed with our culinary
 skills...perhaps we could increase them with a cooking course?
 
-### Day Four:
+### Day Four
 
 Joe took Tom and Ben up the Slant (grade II) splitting it into three pitches to give the two
 novices a good chance of leading. Joe’s team topped out first due to alpine efficiency and
@@ -91,7 +91,7 @@ group chilli and there was gateaux.
 
 {{< figure src="images/1.jpg" width="300">}}
 
-### Day Five:
+### Day Five
 
 
 Joe, Tom and Ben wanted to try the route Jonathan and Ruth did the day before so set off
@@ -99,7 +99,7 @@ early for a day on the hill whilst everyone else took a well earned rest day. Bo
 whipped cream were eaten in abundance in the command palace. Dinner was cheesy-eggy-
 pasta with sausages and veg.
 
-Day Six:
+### Day Six
 “Raining at all altitudes” – were not the words we wanted to hear and looking out the
 window the previously picturesque white landscape had transformed to a patchy white,
 green and mostly brown view. For the group who had a rest day on day five this was very
@@ -107,13 +107,14 @@ disappointing, but unavoidable. So we took a trip to Avimore, but didn’t have 
 trip to a distillery. The evening was spent playing hide and seek, with more obscure and
 precarious places found as the night progressed. Dinner was curry.
 
-Day seven:
+### Day seven
 The long drive home, with a slightly detoured route to drop Joe, James, Ruth and Ben at
 various locations on route. We were also able to pick up some winter boots jointly bought
+
 by ICMC and Outdoor Club.
 
 
-## Financial Breakdown:
+## Financial Breakdown
 
 Income:
 Members contributions: £150 each (£1050)

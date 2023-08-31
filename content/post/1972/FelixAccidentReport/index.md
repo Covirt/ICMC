@@ -25,7 +25,7 @@ The two articles and their transcription can be found below:
 {{< figure src="images/caucasus.png" width="300">}}
 
 
-## Transcription:
+## Transcription
 
 ### Bolivia
 

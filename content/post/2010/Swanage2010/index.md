@@ -14,7 +14,7 @@ tags:
 
 By James Lawson (Kip)
 
-## The Journey:
+## The Journey
 The journey began for some in the SAC at around 12. Due to a lack of drivers and Murray and Kips
 recent birthdays they were taking the minibus test on the day of the trip, if they both failed then
 there would be no trip! Fortunately both passed despite neither having driven a car for quite some
@@ -27,7 +27,7 @@ The minibus was swiftly filled by the small number of people but departed a litt
 stall from the newly qualified driver. We arrived at Murray’s house quite early as Swanage is quite
 close and decided to watch top gun before going to bed.
 
-## Day 1:
+## Day 1
 
 Since there were quite a few freshers on this trip the decision was made to go to Dancing ledge for
 some easy sport and maybe some top rope climbing on the polished limestone. Calum wanted to go
@@ -65,7 +65,7 @@ walked all the way into Swanage town and was currently sheltering in “Fun Land
 members were relieved at the news of his safety and proceeded to pick him up and head back to
 Murray’s house for dinner.
 
-## Day 2:
+## Day 2
 
 After the adventures of day 1 it was decided that everyone would stick together and go bouldering
 in Portland. After a drive over to the isle and the navigational nightmare of the local streets designed

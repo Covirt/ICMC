@@ -13,7 +13,7 @@ tags:
 
 By James Lawson (Kip)
 
-## The Journey:
+## The Journey
 Due to ultra efficiency from Johan and the shopping crew the bus was ready to go at 18:05,
 unfortunately no one was actually here at this point, mainly due to coursework and lectures.
 Departure occurred some 20 minutes later. Most importantly Outdoor Club (S&G) where still
@@ -21,7 +21,7 @@ putting bags on their roof as we burnt away from the union. The journey was unev
 a slight deviation from the planned route around stoke. Eliot’s car and the bus arrived at the
 campsite within a few minutes of each other due to the car stopping for ice cream.
 
-## Day 1:
+## Day 1
 Fresher and I went to Jamtastic Ramshaw Rocks while everyone else went to the Roaches. I lead
 Phallic Crack (S) and Battle of Bulge (VS). On Battle of the Bulge I entertainingly kicked out my first
 gear as I moved past it and proceeded to place very suspect runners to the top. I then proceeded to
@@ -29,7 +29,7 @@ be a little silly and fail to start the crank, I will return. Fresher the lead a
 pleasant and jammy.
 At the Roaches lots of teaching and fun climbing/bouldering went on.
 
-## Day 2:
+## Day 2
 The start was heavily delayed by faff and destination selection but eventually we ended up at the
 slightly damp Roaches. Lizze lead the crazy run out VS that Johan had lead the day before. Quite a
 few people got stuck into a jamming roof crack boulder problem that Fresher had found, loosing alot
@@ -37,7 +37,7 @@ of skin in the process. Top knots were declared the best hair style for jamming.
 move on ‘The Boss’ (f6c) only to fall off the easier upper moves, it was that kind of day.
 
 
-## The Race:
+## The Race
 We stopped for take away in Stoke. The food varied from cheap and mostly disgusting (Ali’s) to
 quite good pizza with a middling price. At Ali’s a one of the local tramps decided that it was time to
 tell everyone which bits of London he had been too (Peckham, Wandsworth and Knightsbridge

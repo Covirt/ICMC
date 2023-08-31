@@ -13,14 +13,14 @@ tags:
 
 By James Lawson (Kip)
 
-## The Journey:
+## The Journey
 Departure was swift, getting away from the union by 6:30pm. However due to lack of tarps we had to
 load all our bags/food/ropes/mats/people into the body of the bus resulting in very cramped conditions
 for the 7hrs journey. Food was forgotten but fortunately this had been planned for so chocolate and
 porridge were not significantly impacted. Again we departed quicker than outdoor (S&G). Our heads
 were full of lofty ambitions for long mountain routes; however the weather of Wales is a fickle thing…
 
-## Day 1:
+## Day 1
 The conditions were terrible with rain and hail so the decision was made for a lie in (till 10am). We then
 headed to Llanberis to play with gear and enquire about the possibility of dry rock. The conclusion of
 our meandering conversations was that only the cave would be dry. We then split into 3 groups; the
@@ -34,7 +34,7 @@ surprisingly no one else felt inclined to enjoy the ‘refreshing’ water.
 At the cave David and Fails did Rock Bottom (V6), Lisa did Pillar Finnish (V4) and Chris did
 Burning Sphincter (V5). People seem to be improving quite fast.
 
-## Day 2:
+## Day 2
 
 Holyhead Mountain was selected as our destination due to its fast drying properties. The climbs in the
 middle were approximately 30M on quite good friction quartz with shorter climbs on the edges,

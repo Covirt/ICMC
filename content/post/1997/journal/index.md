@@ -26,7 +26,7 @@ The original cover featured a bra attached to someone's buttocks, and was omitte
 The full document can be found here:
 [Click here to download](/documents/jammingcracks.pdf)
 
-## Transcription:
+## Transcription
 
 
 ### Editorial: I MADE THIS
