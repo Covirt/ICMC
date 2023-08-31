@@ -1,5 +1,5 @@
 ---
-title: "Fresher's trip 2010"
+title: "Fresher's trip 2100"
 description: 
 slug: 
 date: 2010-10-01
