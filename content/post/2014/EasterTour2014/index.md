@@ -8,7 +8,7 @@ categories:
     - Summer tour
 tags:
     - Turkey
-    - Sport
+    - Sport Climbing
     - Bouldering
     - Geyikbayırı
 ---

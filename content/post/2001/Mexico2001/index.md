@@ -8,7 +8,7 @@ categories:
     - Expedition
 tags:
     - Trad
-    - Sport
+    - Sport Climbing
     - Mexico
 ---
 

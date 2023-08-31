@@ -9,7 +9,7 @@ categories:
 tags:
     - Spain
     - Mallorca
-    - Sport
+    - Sport Climbing
     - Deep Water Solo
 ---
 

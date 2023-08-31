@@ -9,7 +9,7 @@ categories:
 tags:
     - Spain
     - Siurana
-    - Sport
+    - Sport Climbing
 ---
 
 By Will Macleod

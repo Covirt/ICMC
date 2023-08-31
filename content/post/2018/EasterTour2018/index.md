@@ -8,7 +8,8 @@ categories:
     - Easter Tour
 tags:
     - Spain
-    - Sport
+    - Sport Climbing
+
 ---
 
 

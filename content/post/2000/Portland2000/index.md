@@ -8,7 +8,7 @@ categories:
     - Weekend trip
 tags:
     - Portland
-    - Sport
+    - Sport Climbing
     - Bouldering
 ---
 

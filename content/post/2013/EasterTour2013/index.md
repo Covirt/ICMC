@@ -10,7 +10,7 @@ tags:
     - North Wales
     - Trad
     - Bouldering
-    - Sport
+    - Sport Climbing
 ---
 
 # ICMC Easter Tour: ~~Fontainebleau~~ Wales

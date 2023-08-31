@@ -9,7 +9,7 @@ categories:
 tags:
     - Spain
     - Costa Blanca
-    - Sport
+    - Sport Climbing
     - Deep Water Solo
 ---
 

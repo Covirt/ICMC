@@ -8,7 +8,7 @@ categories:
     - Summer tour
 tags:
     - France
-    - Sport
+    - Sport Climbing
     - Bouldering
 ---
 

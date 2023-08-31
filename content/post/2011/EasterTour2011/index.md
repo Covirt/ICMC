@@ -12,7 +12,7 @@ tags:
     - France
     - Spain
     - Bouldering
-    - Sport climbing
+    - Sport Climbing
     - Cornwall
     - North Wales
 ---
