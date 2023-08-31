@@ -9,6 +9,7 @@ categories:
 tags:
     - Trad
     - Bouldering
+    - Peak district
 ---
 
 Author unknown.
