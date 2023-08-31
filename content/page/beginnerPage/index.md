@@ -23,10 +23,6 @@ links:
     description: "This group has climbing walls all accross London"
     image: https://londonclimbingcentres.co.uk/app/uploads/2021/09/logo-landscape.svg
 
-  - title: Climbing Hangar
-    website: https://www.theclimbinghangar.com/
-    image: https://www.theclimbinghangar.com/assets/images/logo-dark.svg
-
 menu:
     main:
         weight: 2
@@ -42,7 +38,10 @@ Being a member of the Imperial College Mountaineering Club is about having fun c
 
 ### Westway
 
-So how do you get started with your first session of climbing? Well there are a number of gyms in London but ICMC members regularly go to Westway Climbing Centre to climb since it has both roped climbing and bouldering while being fairly close to campus. If it’s your first time climbing we really advise going with an experienced friend or club member who can guide you through the basics. If you don’t have any friends that climb, our Facebook group is a great place to find climbing partners. Since its your first time climbing at Westway it really speeds things along if you register on the Westway website before arriving at the centre. Entry prices are listed below. As you can see it’s much cheaper to go off-peak as a student so make sure to remember your college card when you go.
+So how do you get started with your first session of climbing? Well there are a number of gyms in London but ICMC members regularly go to Westway Climbing Centre to climb since it has both roped climbing and bouldering while being fairly close to campus. If it’s your first time climbing we really advise going with an experienced friend or club member who can guide you through the basics. If you don’t have any friends that climb, reach out on the WhatsApp chat or to someone on the committee. Entry prices are listed below. As you can see it’s much cheaper to go off-peak as a student so make sure to remember your college card when you go.
+
+The easiest way to go to Westway from South Kensington is using the 52 or 452 bus behind the Royal Albert Hall.
+The nearest tube station is Latimer Road which is served by the Circle and Hammersmith & City line.
 
 {{< table >}}
 | | Peak Entry | Off-Peak |
@@ -55,11 +54,14 @@ Off-Peak Times: Monday-Friday 6am-5pm
 
 ### The LCC (Ravenswall, Vauxwall, Euston Wall, ...)
 
-The London Climbing Centres have the most climbing centres in London.
+The London Climbing Centres have the most climbing centres in London. The main ones the club goes to Ravenswall and Eustonwall.
 
 ### Other notable climbing gyms
 
-asdyibhkjs
+There are many other cool gyms accross London:
+- Climbing Hangar (Parsons Green): excellent route setting, slightly cramped
+- City Bouldering: close to White City Campus
+- The Castle (Stoke Newington): the other roped climbing gym, quite far north
 
 ## What do I bring?
 
