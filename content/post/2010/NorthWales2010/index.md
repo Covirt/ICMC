@@ -3,13 +3,12 @@ title: "North Wales trip"
 description: 
 slug: 
 date: 2010-10-15
-image: images/0.jpg
 categories:
     - Weekend Trip
 tags:
     - North Wales
     - Bouldering
-    - 
+    - Trad
 ---
 
 By James Lawson (Kip)
