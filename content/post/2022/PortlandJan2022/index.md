@@ -18,11 +18,11 @@ ICMC went to Portland
 
 The first trip of 2022 marked the ICMC’s first return to the Isle of Portland, Dorset since 2018. A lack of cheap accommodation (or motivation for camping) brought any previous plans to a standstill. This was changed by Vice-Pres George, who went above the call of duty by randomly dialling phone numbers in the Dorset region until he found a church hall for hire under the house of a vicar.
 
-{{< figure src="image1.png" width="500" >}}
+{{< figure src="image2.png" width="500" caption="Miguel making a barefoot crack ascent of Chalkie and the Hex 5 (5a) 'for fun'" >}}
 
 A few messages later and members rushed to buy tickets for what promised to be a cracking weekend of sport and bouldering. President Ollie Tippett gravely missed access to the union minibuses after his own van broke down before getting out of his driveway. Although he missed the trip he was there in spirit, as all present could feel his sarcastic comments like some form of undiagnosed PTSD. The remaining members made their way to the Isle in good order, and George rapidly organised the hire of bouldering pads to replace those lost in Ollie’s van.
 
-{{< figure src="image2.png" width="500" >}}
+{{< figure src="image1.png" width="500"   caption="Liam repeating the bare-footed ascent.">}}
 
 Following a reasonable night’s sleep (one unidentified snorer must have slept well!), the club rose to start a solid day’s climb in the cuttings. Whilst Ciaran and George headed off to fetch the hire pads, the rest of the trip warmed up on some of the easier sport routes offered in the cuttings and revised some anchor-rethreading theory. Upon their return with said pads, some boulderers (who shall not be named) (Callum) declared sport climbing to be a fruitless endeavour, and led a group down to the Cuttings boulder field.
 
