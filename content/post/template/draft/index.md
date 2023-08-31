@@ -8,7 +8,7 @@ categories:
     - Fresher's trip
 tags:
     - Peak District
-    - Trad Climbing
+    - Trad
 draft: true
 # Remove above line
 ---
