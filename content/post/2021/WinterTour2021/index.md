@@ -85,8 +85,7 @@ recent years. This trip aims to continue this long history of developing mountai
 |:-------:|:-------:|:-------:|:-------:|:-------:|
 | Ciaran Dowds | Tour Leader / Record holder for fastest run from Ben Macdui to Cairngorm Toilets | Electrical Eng | 4th | Send first Scottish Grade IV in style. |
 | Olly Tippett | _Did you know I winter climbed through a plane_ | Mech Eng | 4th | Onsight _The Hurting (XI 11)_ with one axe. |
-| Piers Heathcote | Warthog enthusiast | MRes Bioengineering | Graduated | Send his long-term project, the _Metal Slide on the approach to
-Cummingston_ Grade - I |
+| Piers Heathcote | Warthog enthusiast | MRes Bioengineering | Graduated | Send his long-term project, the _Metal Slide on the approach to Cummingston_ Grade - I |
 | George Gunn | Footwork beta specialist | Des Eng | 3rd | Turn all ice into Swiss cheese |
 | Jake Lewis | ‘Stubby’ ice screw adopter | Aero | 4th | Log _Pointless walk to the boulders at the bottom of the crag (Stob Coire an t-Sneachda)_ as many times as possible. |
 | Isabel Jones | Glissade specialist | Physics | Graduated | Navigate Olly to safety. |
