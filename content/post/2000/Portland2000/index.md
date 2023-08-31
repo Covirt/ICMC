@@ -12,6 +12,8 @@ tags:
     - Bouldering
 ---
 
+Author unknown.
+
 An all together fantastic trip involving two breaking-in's (don't panic...someone only climbed
 through the windows of a) the caravan and b) the mini bus.) the rather unfair exclusion of a very
 authentic and rustic looking ice pick, much to someone's utter dismay... ...the full novelty of the
