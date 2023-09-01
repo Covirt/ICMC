@@ -12,7 +12,7 @@ tags:
     - Big Wall
 ---
 
-[Click here to download](/documents/yosemite_exped_2013.pdf)
+[Expedition report](/documents/yosemite_exped_2013.pdf)
 
 
 {{< youtube id="JyUc20kwTz8" >}}

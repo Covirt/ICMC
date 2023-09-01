@@ -17,7 +17,7 @@ tags:
 ---
 
 The full Expedition report can be found here:
-[Click here to download](/documents/alaska2022.pdf)
+[Expedition report](/documents/alaska2022.pdf)
 
 ## Expedition members
 - Isabel "Izzy" Jones
