@@ -1,3 +1,9 @@
+## Converting PDFs to Posts
+- Copy template from content/post/template/draft/index.md
+- Extract images: https://tools.pdf24.org/en/extract-images
+- PDF to markdown: https://pdf2md.morethan.io/
+
+
 ## Hugo Theme Stack Starter Template
 
 Documentation: https://stack.jimmycai.com/guide/getting-started

@@ -2,12 +2,20 @@
 {{- if not $pc.Disable -}}
 {{- $ytHost := cond $pc.PrivacyEnhanced  "www.youtube-nocookie.com" "www.youtube.com" -}}
 {{- $id := .Get "id" | default (.Get 0) -}}
+{{- $caption := .Get "caption" -}}
 <div class="video-wrapper">
-    <iframe loading="lazy" 
+    <iframe loading="lazy"
             src="https://{{ $ytHost }}/embed/{{ $id }}{{ with .Get "autoplay" }}{{ if eq . "true" }}?autoplay=1{{ end }}{{ end }}" 
             allowfullscreen 
             title="YouTube Video"
     >
     </iframe>
 </div>
+{{ if $caption }}
+<p>
+    <center>
+    {{$caption}}
+    </center>
+</p>
+{{ end }}
 {{ end -}}
