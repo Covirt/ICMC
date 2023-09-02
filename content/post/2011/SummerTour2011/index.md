@@ -9,7 +9,7 @@ categories:
 tags:
     - Spain
     - Mallorca
-    - Sport
+    - Sport Climbing
     - Deep Water Solo
 ---
 
@@ -284,7 +284,7 @@ our bags and then all went our separate ways.
 
 ## Finances
 
-### Cost Breakdown:
+### Cost Breakdown
 
 {{< table >}}
 | Income | Value  | 
