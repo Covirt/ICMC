@@ -10,6 +10,8 @@ tags:
     - Wales
     - Trad
     - Bouldering
+locations:
+    - GB-WLS
 ---
 
 By Kip

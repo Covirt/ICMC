@@ -10,6 +10,8 @@ tags:
     - Trad
     - Sport Climbing
     - Mexico
+locations:
+    - MX
 ---
 
 ## "Forget your hands. Trust your shoes..."

@@ -10,6 +10,8 @@ tags:
     - Kalymnos
     - Greece
     - Sport Climbing
+locations:
+    - GR
 ---
 
 Written by James Lawson (Webmaster) & Alistair Brash (President)

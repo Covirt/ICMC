@@ -10,6 +10,8 @@ tags:
     - Portland
     - Sport Climbing
     - Bouldering
+locations:
+    - GB-ENG
 ---
 
 ICMC went to Portland

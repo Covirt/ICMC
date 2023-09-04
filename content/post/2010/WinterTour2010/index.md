@@ -10,6 +10,8 @@ tags:
     - Winter
     - Trad
     - Bouldering
+locations:
+    - GB-WLS
 ---
 
 

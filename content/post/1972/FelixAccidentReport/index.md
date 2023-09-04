@@ -13,6 +13,9 @@ tags:
     - Chamonix
     - South America
     - Bolivia
+locations:
+    - BO
+    - FR
 ---
 
 The edition of Imperial College's student newspaper, Felix, from the 19th of Oct 1972, details two accident reports on ICMC-affiliated trips. You can find the article (and the rest of this edition of Felix) in the link below:

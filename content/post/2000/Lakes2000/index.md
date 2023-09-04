@@ -9,6 +9,8 @@ categories:
 tags:
     - Trad
     - Lake district
+locations:
+    - GB-ENG
 ---
 
 Lake District with Sunshine and Climbing. Not the combination expected, well climbing on slate in

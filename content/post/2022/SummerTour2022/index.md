@@ -8,7 +8,10 @@ categories:
     - Summer Tour
 tags:
     - Eastern Europe
+    - Bosnia
     - Sport Climbing
+locations:
+    - BA
 ---
 
 ICMC had the Summer Tour of 2022 go to the climbing Festival Drill and Chill.

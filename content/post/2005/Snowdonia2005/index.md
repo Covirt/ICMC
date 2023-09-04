@@ -9,6 +9,8 @@ categories:
 tags:
     - Snowdonia
     - Trad
+locations:
+    - GB-WLS
 ---
 
 By Dave Robinson

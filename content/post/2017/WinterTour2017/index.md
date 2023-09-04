@@ -11,6 +11,8 @@ tags:
     - Winter
     - Dry tooling
     - Trad
+locations:
+    - GB-SCT
 ---
 
 By Stuart McClune 

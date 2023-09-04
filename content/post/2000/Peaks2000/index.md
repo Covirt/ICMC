@@ -10,6 +10,8 @@ tags:
     - Trad
     - Bouldering
     - Peak district
+locations:
+    - GB-ENG
 ---
 
 Author unknown.

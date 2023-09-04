@@ -10,6 +10,8 @@ tags:
     - Yosemite
     - Trad
     - Big Wall
+locations:
+    - US
 ---
 
 [Expedition report](/documents/yosemite_exped_2013.pdf)

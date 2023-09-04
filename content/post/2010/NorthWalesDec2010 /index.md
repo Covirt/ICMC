@@ -10,6 +10,8 @@ tags:
     - North Wales
     - Bouldering
     - Trad
+locations:
+    - GB-WLS
 ---
 
 By James Lawson (Kip)

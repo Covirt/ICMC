@@ -10,6 +10,8 @@ tags:
     - France
     - Sport Climbing
     - Bouldering
+locations:
+    - FR
 ---
 
 ### Member Attendees: 17

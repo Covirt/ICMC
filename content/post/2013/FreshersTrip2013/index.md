@@ -10,6 +10,8 @@ categories:
 tags:
     - Trad
     - Bouldering
+locations:
+    - GB-ENG
 ---
 
 By Jordan Ford

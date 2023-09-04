@@ -10,6 +10,8 @@ tags:
     - Spain
     - Siurana
     - Sport Climbing
+locations:
+    - ES
 ---
 
 By Will Macleod

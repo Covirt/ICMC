@@ -9,6 +9,8 @@ categories:
 tags:
     - Peak District
     - Trad Climbing
+locations:
+    - GB-ENG
 ---
 
 By James Lawson (kip)

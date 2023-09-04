@@ -10,6 +10,8 @@ tags:
     - Yorkshire
     - Trad
     - Bouldering
+locations:
+    - GB-ENG
 ---
 
 By Ruth Lawson

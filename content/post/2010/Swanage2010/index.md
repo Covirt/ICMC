@@ -10,6 +10,8 @@ tags:
     - Swanage
     - Trad
     - Bouldering
+locations:
+    - GB-ENG
 ---
 
 By James Lawson (Kip)

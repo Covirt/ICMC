@@ -10,6 +10,8 @@ tags:
     - Peak District
     - Trad
     - Bouldering
+locations:
+    - GB-ENG
 ---
 
 By: Ali
