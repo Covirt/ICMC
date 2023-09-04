@@ -2,7 +2,11 @@ module:
     hugoVersion:
         extended: true
         min: "0.87.0"
-
+    mounts:
+        - source: 'assets'
+          target: 'assets'
+        - source: 'node_modules/flag-icons'
+          target: 'assets/flag-icons'
 params:
     mainSections:
         - post
@@ -141,4 +145,8 @@ params:
             enabled: true
         content:
             enabled: true
+    flags:
+        width: 24
+        height: 18
+
 googleAnalytics: "G-21C4TJHYFS"
