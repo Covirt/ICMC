@@ -12,4 +12,4 @@ tags:
     - Alpinism
 ---
 
-[Click here to download](/documents/andes1984.pdf)
+[Expedition report](/documents/andes1984.pdf)
