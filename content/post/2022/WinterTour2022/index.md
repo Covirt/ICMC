@@ -8,17 +8,15 @@ categories:
     - Winter Tour
 tags:
     - Scotland
+    - Winter Climbing
     - Ice Climbing
-draft: true
+    - Bouldering
+
 ---
 
-Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
 
-For more information about this theme, check the documentation: https://docs.stack.jimmycai.com/
+![Topping out to safety](ezgif-2-eb98ce3e12.gif)
 
-Want a site like this? Check out [hugo-theme-stack-stater](https://github.com/CaiJimmy/hugo-theme-stack-starter)
+{{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}
 
-And see below one of the coolest videos
-{{< video src="test-vid.mp4" autoplay="true">}}
-
-> Photo by Pawel Czerwinski
+(No tour report for this year, as we didn't receive )
