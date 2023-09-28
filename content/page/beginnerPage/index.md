@@ -1,6 +1,7 @@
 ---
 title: "Beginner's Page"
 slug: "beginner-page"
+lastmod: 2023-09-28
 
 links:
   - title: ICMC Union Website
@@ -15,8 +16,8 @@ links:
 
   - title: Westway
     description: "One of the few gyms with lead climbing in London"
-    website: https://www.imperialcollegeunion.org/activities/a-to-z/mountaineering
-    image: ICU.png
+    website: https://www.everyoneactive.com/centre/westway-sports-fitness-centre/climbing/
+    image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUzb57kAaHLRhRf4J0xnAo9cUr5A4xPXt0E6hvj7iPwDpCLy-kqfSok7OfETjWggU6yEk&usqp=CAU
     
   - title: London Climbing Centres (LCC)
     website: https://londonclimbingcentres.co.uk/
@@ -100,7 +101,7 @@ Club membership is not required to attend the indoor climbing sessions, but the 
 
 Buying a club membership will give you access to:
 - Weekend outdoor climbing trips
-- Winter / Easter / Summer tours to climbing destinations further afield
+- [Winter]({{< ref "/categories/winter-tour/" >}} "Winter tour") / [Easter]({{< ref "/categories/easter-tour/">}} "Easter Tour") / [Summer]({{< ref "/categories/summer-tour/">}} "Summer Tour") tours to climbing destinations further afield
 - Borrow equipment from our club stores, which contain almost everything you could need to climb outdoors! 
 
 You can buy a membership [here](https://www.imperialcollegeunion.org/activities/a-to-z/mountaineering).
