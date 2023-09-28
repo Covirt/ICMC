@@ -3,6 +3,7 @@ title: Peaks Trip Report Jan 2020
 description: Off to the Peak District
 slug: 
 date: 2020-01-24
+lastmod: 2023-09-28
 image: cover.jpg
 categories:
     - Weekend Trip

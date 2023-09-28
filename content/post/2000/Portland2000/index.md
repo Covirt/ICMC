@@ -3,6 +3,7 @@ title: "Portland Trip"
 description: One from the archives
 slug: 
 date: 2000-01-01
+lastmod: 2023-09-28
 # image: cover.jpg
 categories:
     - Weekend trip

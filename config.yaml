@@ -4,6 +4,7 @@ module:
         min: "0.87.0"
 
 params:
+    timeout: 100s
     mainSections:
         - post
     featuredImageField: image

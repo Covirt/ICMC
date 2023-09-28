@@ -3,6 +3,7 @@ title: "Andes exped 1984"
 description: 
 slug: 
 date: 1984-07-01
+lastmod: 2023-09-28
 image: images/0.jpg
 categories:
     - Expedition
@@ -12,4 +13,4 @@ tags:
     - Alpinism
 ---
 
-[Click here to download](/documents/andes1984.pdf)
+[Expedition report](/documents/andes1984.pdf)

@@ -3,6 +3,7 @@ title: "Yorkshire 2013"
 description: 
 slug: 
 date: 2013-05-13
+lastmod: 2023-09-28
 image: images/0.jpg
 categories:
     - Fresher's trip

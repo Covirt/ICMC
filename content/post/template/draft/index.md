@@ -3,6 +3,7 @@ title: "Fresher's trip 2100"
 description: 
 slug: 
 date: 2010-10-01
+lastmod: 2023-09-28
 image: images/0.jpg
 categories:
     - Fresher's trip

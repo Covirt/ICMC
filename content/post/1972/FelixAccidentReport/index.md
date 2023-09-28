@@ -3,6 +3,7 @@ title: "Accident reports from ICMC expeditions, reported in the Felix"
 description: 
 slug: 
 date: 1972-10-19
+lastmod: 2023-09-28
 image: felix1972_cover.png
 categories:
     - Other
@@ -13,10 +14,17 @@ tags:
     - Chamonix
     - South America
     - Bolivia
+locations:
+    - BO
+    - FR
 ---
 
 The edition of Imperial College's student newspaper, Felix, from the 19th of Oct 1972, details two accident reports on ICMC-affiliated trips. You can find the article (and the rest of this edition of Felix) in the link below:
+
 [Click here to download](/documents/felix1972.pdf)
+
+An expedition report from the Cordillera Real (Bolivian) expedition can also be found here: [Click here to download](/documents/bolivia_exped_1972.pdf)
+
 
 The two articles and their transcription can be found below:
 
@@ -29,8 +37,7 @@ The two articles and their transcription can be found below:
 
 ### Bolivia
 
-Bolivia
-Last summer, an eight-man expedition lefi Imperial College to climb in the Andes in Bolivia. Towards the end of the period spent climbing, two members of the expedition were killed whilst attempting a new climb on the east face of Illampu. They were Dave Steel, aged 24, who completed his degree in Electrical Engineering last year, and Rog Scull also aged 24.
+Last summer, an eight-man expedition left Imperial College to climb in the Andes in Bolivia. Towards the end of the period spent climbing, two members of the expedition were killed whilst attempting a new climb on the east face of Illampu. They were Dave Steel, aged 24, who completed his degree in Electrical Engineering last year, and Rog Scull also aged 24.
 Dave was an active member of the College Moun taineering Club for several years, a rock climber of exceptional ability, who had several notable first and early ascents to his name, especially in the Avon Gorge area; he was also an experienced mountaineer with several successful Alpine seasons behind him.
 Rog was not a member of the college, but had been a close friend and usual climbing partner of Dave's for many years, and was invited to take part in the expedition for his ability and experience as a mountaineer.
 
