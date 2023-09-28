@@ -1,5 +1,5 @@
 ---
-title: "Chulilla, Spain Easter Tour 2018"
+title: "Easter Tour 2018"
 description: Sport climbing in Eastern Spain
 slug: 
 date: 2018-03-26
