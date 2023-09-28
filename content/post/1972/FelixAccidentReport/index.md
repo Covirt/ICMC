@@ -3,6 +3,7 @@ title: "Accident reports from ICMC expeditions, reported in the Felix"
 description: 
 slug: 
 date: 1972-10-19
+lastmod: 2023-09-28
 image: felix1972_cover.png
 categories:
     - Other
