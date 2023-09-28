@@ -3,12 +3,13 @@ title: "Summer tour 2014 - Verdon Gorge"
 description: Sun and fun
 slug: 
 date: 2014-09-08
+lastmod: 2023-09-28
 image: images/4.jpg
 categories:
     - Summer tour
 tags:
     - France
-    - Sport
+    - Sport Climbing
     - Bouldering
 ---
 

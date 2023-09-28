@@ -3,17 +3,18 @@ title: "Summer Tour 2009"
 description: Digging through the archives
 slug: 
 date: 2009-09-12
+lastmod: 2023-09-28
 image: images/0.jpg
 categories:
     - Summer Tour
 tags:
     - Spain
     - Costa Blanca
-    - Sport
+    - Sport Climbing
     - Deep Water Solo
 ---
 
-## Members who attended:
+## Members who attended
 
 - Alistair Brash
 - Simon Partridge

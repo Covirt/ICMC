@@ -3,16 +3,18 @@ title: "Chulilla, Spain Easter Tour 2018"
 description: Sport climbing in Eastern Spain
 slug: 
 date: 2018-03-26
+lastmod: 2023-09-28
 image: images/0.jpg
 categories:
     - Easter Tour
 tags:
     - Spain
-    - Sport
+    - Sport Climbing
+
 ---
 
 
-### Member Attendees:
+### Member Attendees
 
 Richard Metcalfe, Stuart McClune, Alex Smith, Charlotte Krishek, Kuran Pahwa, Hannah Nevill, Shan Pandya, Keeran Sivalingam, Nick Koukoulekidis, Mertcan Sevgi, Sean Barret, Suviti Chari.
 
@@ -114,7 +116,7 @@ incredible and well needed at the airport the following morning.
 Glassy eyed and a bit broken the group arose at 6am to travel home. At the airport the group
 wallowed in self-pity but no regrets at Burger King before boarding the flight back to London.
 
-### Cost Breakdown:
+### Cost Breakdown
 
 {{< table >}}
 | Income | Value  | 

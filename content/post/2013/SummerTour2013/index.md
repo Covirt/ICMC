@@ -3,18 +3,19 @@ title: "Summer Tour 2013"
 description: Digging through the archives
 slug: 
 date: 2013-09-06
+lastmod: 2023-09-28
 image: images/2.jpg
 categories:
     - Summer Tour
 tags:
     - Spain
     - Siurana
-    - Sport
+    - Sport Climbing
 ---
 
 By Will Macleod
 
-## Objectives:
+## Objectives
 
 - For everyone to enjoy 2 weeks of sport climbing in the sun!
 - For members to improve their sport climbing ability.
@@ -26,7 +27,7 @@ of sport climbing was excellent, and many people boosted their sport climbing gr
 substantial amount; Sam and Milan boosted their grades from 6a+ to 6c and I went from
 climbing 6c+ to 7b.
 
-## Attendees:
+## Attendees
 
 1. Will Macleod
 2. Andrew Wilkins

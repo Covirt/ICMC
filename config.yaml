@@ -4,6 +4,7 @@ module:
         min: "0.87.0"
 
 params:
+    timeout: 100s
     mainSections:
         - post
     featuredImageField: image
@@ -141,3 +142,4 @@ params:
             enabled: true
         content:
             enabled: true
+googleAnalytics: "G-21C4TJHYFS"
