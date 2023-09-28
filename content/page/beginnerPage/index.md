@@ -7,22 +7,22 @@ links:
   - title: ICMC Union Website
     description: The Imperial College Union's website for the moutaineering club
     website: https://www.imperialcollegeunion.org/activities/a-to-z/mountaineering
-    image: ICU.png
+    image: /ICU.png
     
   - title: ICMC Instagram
     description: The Mountaineering Club's Instagram Account
     website: https://www.instagram.com/ic_mountaineering/
-    image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png
-
+    image: /2048px-Instagram_logo_2016.svg.png
+    
   - title: Westway
     description: "One of the few gyms with lead climbing in London"
     website: https://www.everyoneactive.com/centre/westway-sports-fitness-centre/climbing/
-    image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUzb57kAaHLRhRf4J0xnAo9cUr5A4xPXt0E6hvj7iPwDpCLy-kqfSok7OfETjWggU6yEk&usqp=CAU
+    image: /westway.png
     
   - title: London Climbing Centres (LCC)
     website: https://londonclimbingcentres.co.uk/
     description: "This group has climbing walls all accross London"
-    image: https://londonclimbingcentres.co.uk/app/uploads/2021/09/logo-landscape.svg
+    image: /lcc.svg
 
 menu:
     main:
