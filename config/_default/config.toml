@@ -15,4 +15,4 @@ hasCJKLanguage = false
 # Change it to your Disqus shortname before using
 disqusShortname = "hugo-theme-stack"
 
-timeout = "60s"
+timeout = "120s"
