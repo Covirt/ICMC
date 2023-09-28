@@ -105,3 +105,61 @@ Buying a club membership will give you access to:
 - Borrow equipment from our club stores, which contain almost everything you could need to climb outdoors! 
 
 You can buy a membership [here](https://www.imperialcollegeunion.org/activities/a-to-z/mountaineering).
+
+## Climbing theory
+Want to learn a new form of climbing? Learn the theory beforehand using the links below. These tutorials come from VDiff Climbing, and may be slightly dated - there often isn't a single solution to a problem in the climbing world, so trust those more experienced with a pinch of salt.
+
+{{< table >}}
+| Climbing type | Skills |
+|:-:|:-:|
+| **Intro** | |
+| | [How to wear a harness](https://www.vdiffclimbing.com/basic-harness/) |
+| | [Figure 8 knots](https://www.vdiffclimbing.com/basic-tie-in/) |
+| | [Attaching a belay device](https://www.vdiffclimbing.com/basic-atc/) |
+| | [How to coil a rope](https://www.vdiffclimbing.com/coil-rope/) |
+| | [Climbing rope types](https://www.vdiffclimbing.com/basic-rope/)
+| **Climbing technique** | |
+| | [Footwork](https://www.vdiffclimbing.com/sport-technique-footwork/) |
+| | [Handholds](https://www.vdiffclimbing.com/sport-technique-handholds/) |
+| | [Movement](https://www.vdiffclimbing.com/sport-technique-movement/) | 
+| **Top rope** | |
+| | [Top rope vs lead](https://www.vdiffclimbing.com/basic-top-rope/) |
+| | [Top rope climbing calls](https://www.vdiffclimbing.com/basic-calls/) |
+| | [How to top rope belay](https://www.vdiffclimbing.com/basic-top-rope-belay/) |
+| **Lead** | |
+| | [How to clip](https://www.vdiffclimbing.com/basic-lead-climb/) |
+| | [How to belay](https://www.vdiffclimbing.com/basic-lead-belay/) |
+| **Sport** | | 
+| | [Sport anchors](https://www.vdiffclimbing.com/sport-anchor-intro/) | 
+| | [Setting up top-ropes](https://www.vdiffclimbing.com/sport-top-rope/) |
+| | [Cleaning anchors](https://www.vdiffclimbing.com/sport-top-rope/) |
+| | [Belaying from the top](https://www.vdiffclimbing.com/sport-anchor/) | 
+| | [General lead skills](https://www.vdiffclimbing.com/sport-lead/) | 
+| | [Descending](https://www.vdiffclimbing.com/sport-descending/) |
+| | [Advanced descending](https://www.vdiffclimbing.com/extend-atc/) |
+| | [Multi pitch](https://www.vdiffclimbing.com/sport-multipitch/) |
+| | [Advanced belaying](https://www.vdiffclimbing.com/better-belayer/) | 
+| | [Attaching to anchors](https://www.vdiffclimbing.com/slings-daisy-chains/) | 
+| | [Guide mode belay](https://www.vdiffclimbing.com/guide-mode/) |
+| | [Tie-off a belay device](https://www.vdiffclimbing.com/tieoff-belay/) |
+| **Self rescue (advanced sport)** | |
+| | [Prusisiking up a rope](https://www.vdiffclimbing.com/prusik-rope/) |
+| | [Dealing with stuck ropes](https://www.vdiffclimbing.com/stuck-ropes/) |
+| **Trad** | | 
+| | [What is trad](https://www.vdiffclimbing.com/trad-climbing/) |
+| | [Placing gear 101](https://www.vdiffclimbing.com/trad-gear/) |
+| | [Cams](https://www.vdiffclimbing.com/cam/) |
+| | [Nuts](https://www.vdiffclimbing.com/nuts/) |
+| | [Hexes](https://www.vdiffclimbing.com/hexes/) |
+| | [Slings](https://www.vdiffclimbing.com/slings/) |
+| | [Anchors 101](https://www.vdiffclimbing.com/anchors-intro/) |
+| | [Equalizing anchors](https://www.vdiffclimbing.com/anchors-equalize/) |
+| | [Attaching to anchors](https://www.vdiffclimbing.com/anchors-attach/) |
+| | [Belaying the second](https://www.vdiffclimbing.com/anchors-belay/) |
+| | [Multi-pitch trad](https://www.vdiffclimbing.com/multipitch/) |
+| | [Prussik knots 101](https://www.vdiffclimbing.com/prusik-types/) |
+| | [Extendable quickdraws](https://www.vdiffclimbing.com/extend-draw/) |
+| | [Extending gear](https://www.vdiffclimbing.com/extend/) |
+| | [Using half ropes](https://www.vdiffclimbing.com/half-ropes/) |
+
+{{< /table >}}
