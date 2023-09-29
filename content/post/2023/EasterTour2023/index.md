@@ -1,5 +1,5 @@
 ---
-title: Easter Tour 2023 to Kalymnos
+title: Easter Tour 2023
 description: Sun, Beaches and Climbing
 slug: 
 date: 2023-04-20

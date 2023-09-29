@@ -4,12 +4,12 @@ links:
   - title: Union Website
     description: The Imperial College Union's website for the moutaineering club
     website: https://www.imperialcollegeunion.org/activities/a-to-z/mountaineering
-    image: ICU.png
+    image: /ICU.png
     
   - title: Instagram
     description: The Mountaineering Club's Instagram Account
     website: https://www.instagram.com/ic_mountaineering/
-    image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png
+    image: /2048px-Instagram_logo_2016.svg.png
 
 menu:
     main: 
