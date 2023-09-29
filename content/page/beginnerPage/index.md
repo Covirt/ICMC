@@ -103,6 +103,7 @@ Buying a club membership will give you access to:
 - Weekend outdoor climbing trips
 - [Winter]({{< ref "/categories/winter-tour/" >}} "Winter tour") / [Easter]({{< ref "/categories/easter-tour/">}} "Easter Tour") / [Summer]({{< ref "/categories/summer-tour/">}} "Summer Tour") tours to climbing destinations further afield
 - Borrow equipment from our club stores, which contain almost everything you could need to climb outdoors! 
+- Discounted entry at Ravenswall + included shoe rental, anytime Monday and Friday, offpeak the rest of the week.
 
 You can buy a membership [here](https://www.imperialcollegeunion.org/activities/a-to-z/mountaineering).
 
