@@ -1,5 +1,5 @@
 ---
-title: "Easter tour 2012"
+title: "Easter Tour 2012"
 description: 
 slug: 
 date: 2012-03-25
