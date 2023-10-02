@@ -1,0 +1,18 @@
+---
+title: "Membership Email"
+description: 
+date: 2023-10-02T17:24:06+01:00
+lastmod: 2023-09-28
+hidden: false
+comments: true
+menu:
+    main:
+        weight: 2
+        params: 
+            icon: hand-click
+---
+You can request a membership email below:
+
+{{< membership_email >}}
+
+This has only been tested for current / alumni students, if this isn't working for you feel free to contact the committee!.

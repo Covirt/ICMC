@@ -1,0 +1,54 @@
+<script src="/jquery-3.7.1.min.js"></script>
+<script src="https://js.hcaptcha.com/1/api.js" async defer></script>
+
+<form id='membership-form' onsubmit="onSubmit">
+    <label for="shortcode">Enter your IC shortcode:</label><br>
+    <input type="text" id="shortcode" name="shortcode" required><br>
+    <div class="h-captcha" data-sitekey="ad420907-6fb1-4ae8-8df1-421d6f359718"></div>
+    <input id='submit-form' type="submit" value="Submit">
+</form>
+
+<p id='response'></p>
+
+<script type="text/javascript">
+    var SCRIPTS_DEPLOYMENT = 'https://script.google.com/macros/s/AKfycbzz5sHpcJmagqfqf-sGG7N-8FQFQMfZeacfb27WWsDJyMhn8whrZbuNfm6tIWTpT2CkMQ/exec';    
+        function writeTxt(txt){
+            $('#response').text(txt);
+        }
+        
+        function writeResponse(e){
+            writeTxt(e['message']);
+            $('#submit-form').attr("disabled", false)
+        }
+    
+        function submitForm(e){
+            e.preventDefault();
+            if ($('[name=h-captcha-response]').val().length===0){
+                writeTxt('Please fill captcha');
+                return;
+            }
+            var shortcode = $('#membership-form').serializeArray()[0]['value'].trim();;
+            if (shortcode.length===0){
+                writeTxt('Please fill shortcode');
+                return;
+            }
+            writeTxt('Sending email....')
+            $('#submit-form').attr("disabled", true)
+            $.ajax({
+                url: SCRIPTS_DEPLOYMENT,
+                crossDomain: true,
+                type: 'get',
+                dataType: 'json',
+                data: {'shortcode': shortcode},
+                success: writeResponse,
+                error: writeResponse
+            });
+            console.log('sent');
+        }
+
+        $('#submit-form').on('click', submitForm);
+    </script>
+
+
+
+
