@@ -20,7 +20,7 @@ tags:
 The full Expedition report can be found here:
 [Expedition report](/documents/yosemite_exped_2022.pdf)
 
-## Expedition members
+## Expedition members
 - Oliver Tippett
 - Chorley King
 - Stuart McClune

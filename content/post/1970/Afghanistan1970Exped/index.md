@@ -17,7 +17,7 @@ A website for the expedition still exists [here](http://www.windmillweb.info/cli
 
 [Expedition report](/documents/afghanistan1970.pdf)
 
-## Expedition members
+## Expedition members
 - Mags Staples
 - Ian Staples
 - Paul Bunting

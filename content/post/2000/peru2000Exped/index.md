@@ -14,7 +14,7 @@ tags:
 
 [Expedition report](/documents/huascaran2000.pdf)
 
-## Expedition members:
+## Expedition members:
 - Warwick Goodall
 - Nicholas Saunders
 - James Smyth

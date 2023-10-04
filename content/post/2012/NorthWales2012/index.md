@@ -39,7 +39,7 @@ Meanwhile Ben, Tom and the sole fresher on the trip Jo climbed the classic route
 
 In bouldering news David did little groove, David and will did dog shooter. Cheehan destroyed all he touched and flashed the pinch. Jordan grabbed the 2nd assent of the pinch from our party. All the really hard problems were wet.
 
-## 2nd day
+## 2nd day
 The 2nd day we arose early and went to roadside boulders in the pass. Kip and Tom set out with the ambition of climbing Cenotaph Corner however after a very hairy scramble it was found to be wet. Therefore instead a pleasant two pitch VS was climbed up the corner to the left which had an interesting top lacking in protection that Tom lead. Joel and Milkins lead a HS that went a different way up the same buttress. Meanwhile and after many boulder problems were climbed by all at roadside and the other surrounding boulders. Lots of hand damage was suffered trying to hold too small holds. Cheehan retro flashed a V12 thus proving that he is just too strong.
 
 {{< figure src="images/3.jpg" width="300" caption="A rock and David">}}

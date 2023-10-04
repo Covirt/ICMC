@@ -14,7 +14,7 @@ tags:
 
 [Expedition report](/documents/bolivia2019.pdf)
 
-## Team members
+## Team members
 - Charlotte Krishek
 - Peter Rhodes
 - Varalika Jain
