@@ -9,7 +9,7 @@ categories:
     - Expedition
 tags:
     - Bolivia
-    - Sport Climbing
+    - Bouldering
 ---
 
 [Expedition report](/documents/bolivia2019.pdf)
