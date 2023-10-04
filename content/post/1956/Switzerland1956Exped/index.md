@@ -1,10 +1,10 @@
 ---
 title: "Switzerland Expedition 1956"
-description: Matternhhorn ascent in the 1950s!
+description: Matterhorn ascent in the 1950s!
 slug: 
 date: 1956-07-01
 lastmod: 2023-10-04
-image: 0.png
+# image: 0.png
 categories:
     - Expedition
 tags:
