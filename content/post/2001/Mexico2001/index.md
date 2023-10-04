@@ -13,6 +13,8 @@ tags:
     - Mexico
 ---
 
+[Expedition report](/documents/mexico2001.pdf)
+
 ## "Forget your hands. Trust your shoes..."
 
 The climbing shoe advert comes back to me as I balance awkwardly on the rockface, a hundred and
