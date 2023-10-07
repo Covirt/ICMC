@@ -3,6 +3,7 @@ title: "Winter tour 2012"
 description: 
 slug: 
 date: 2012-10-01
+lastmod: 2023-09-28
 image: cover.png
 categories:
     - Winter Tour

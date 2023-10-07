@@ -3,6 +3,7 @@ title: Drill and Chill Summer Tour 2022
 description: Come for the climbing, stay for the highline and chilling
 slug: 
 date: 2022-09-17
+lastmod: 2023-09-28
 image: cover.jpg
 categories:
     - Summer Tour
@@ -30,9 +31,9 @@ The team was keen to experience the beautiful scenery and climbing the region ha
 
 {{< table >}}
 
-| Name | Role | Course | 
+| Name | Role | Course |
 |:-------:|:----------------------:|------------|
-| George Gunn | Supreme Commander | Des-Eng | 
+| George Gunn | Supreme Commander | Des-Eng |
 | Elliot Badcock|Mr Badcock| PhD in numbers |
 | Jake Lewis | Caffeine Scout | PhD in very fast air |
 | Tim Bickerseth | Chief Chiller | Geology |
@@ -51,7 +52,7 @@ Alisha and Tim were keen beans and flew out a day ahead of the main crowd, most 
 
 ### Day 1
 
-The main pack congregated at Liverpool Street for an early train out to Stanstead. Will and Elliot managed to blag a lift from relatives and so missed out on the egg & bacon breakfast McMuffin. After clearing security, the group stopped off for some light refreshments. Boarding the plane was hairy as some members of the group had come up with creative ways of maximising their hand luggage allowances, much to the dismay of the Ryanair staff. After a short argument Will had managed to convince them that a helmet was an item of clothing, and his roll mat was simply a blanket. 
+The main pack congregated at Liverpool Street for an early train out to Stanstead. Will and Elliot managed to blag a lift from relatives and so missed out on the egg & bacon breakfast McMuffin. After clearing security, the group stopped off for some light refreshments. Boarding the plane was hairy as some members of the group had come up with creative ways of maximising their hand luggage allowances, much to the dismay of the Ryanair staff. After a short argument Will had managed to convince them that a helmet was an item of clothing, and his roll mat was simply a blanket.
 
 {{< figure src="image1.jpg" width="200" >}}
 
@@ -71,7 +72,7 @@ Tim enjoyed soaking up the chilled atmosphere and continued to make friends with
 
 {{< figure src="image3.jpg" >}}
 
-The team congregated for dinner, refreshed from the previous days travel and thoroughly psyched for the week ahead. 
+The team congregated for dinner, refreshed from the previous days travel and thoroughly psyched for the week ahead.
 
 ### Day 3
 
@@ -145,6 +146,5 @@ Despite all the things achieved, we did not completely fulfil our aims. Many had
 ## Future Development
 
 There is a strong desire within the club to do more highlining. Since returning we have acquired a slackline for the club so members can develop these skills in London. Building on this another tour to a highline venue could be a possibility in the years going forward.
-
 
 {{< gallery match="images/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}

@@ -3,6 +3,7 @@ title: "North Wales Dec trip"
 description: 
 slug: 
 date: 2010-12-01
+lastmod: 2023-09-28
 image: images/0.jpg
 categories:
     - Weekend Trip

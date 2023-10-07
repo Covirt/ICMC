@@ -3,6 +3,7 @@ title: "Summer Tour 2011"
 description: Digging through the archives
 slug: 
 date: 2011-01-02
+lastmod: 2023-09-28
 image: images/0.jpg
 categories:
     - Summer Tour

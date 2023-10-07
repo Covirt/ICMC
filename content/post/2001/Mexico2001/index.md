@@ -3,6 +3,7 @@ title: "Mexico 2001"
 description: ICMC Expedition to Mexico
 slug: 
 date: 2001-01-01
+lastmod: 2023-09-28
 image: cover.jpg
 categories:
     - Expedition
@@ -13,6 +14,8 @@ tags:
 locations:
     - MX
 ---
+
+[Expedition report](/documents/mexico2001.pdf)
 
 ## "Forget your hands. Trust your shoes..."
 

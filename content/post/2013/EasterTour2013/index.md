@@ -3,6 +3,7 @@ title: "Easter Tour 2013"
 description: Fontainebleau? 
 slug: 
 date: 2013-03-24
+lastmod: 2023-09-28
 image: images/2.jpg
 categories:
     - Easter Tour
@@ -111,7 +112,7 @@ was originally budgeted for so only £257.28 of the funding was calculated as
 each.
 These figures are before the Union’s retrospective moderation.
 
-## Difficulties & Objectives
+## Difficulties & Objectives
 Due to mass drop out of drivers in the closing stages of organising the tour, the
 trip was almost cancelled but instead was rapidly switched to Wales at the last
 minute. This lead to the tour being, initially, quite disorganised. However, given

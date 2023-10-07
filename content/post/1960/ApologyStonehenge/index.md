@@ -3,6 +3,7 @@ title: "An apology to the custodian of StoneHenge"
 description: 
 slug: 
 date: 1960-01-01
+lastmod: 2023-09-28
 image: stonehenge.png
 categories:
     - Other

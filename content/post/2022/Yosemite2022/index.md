@@ -3,6 +3,7 @@ title: "Yosemite exped 2022"
 description: Midnight sun and glacial campsites near the Artic Circle
 slug: 
 date: 2022-08-22
+lastmod: 2023-09-28
 image: images/_062.png
 categories:
     - Expedition

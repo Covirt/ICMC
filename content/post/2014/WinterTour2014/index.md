@@ -3,6 +3,7 @@ title: "Winter tour 2015"
 description: 
 slug: 
 date: 2015-01-04
+lastmod: 2023-09-28
 image: images/0.jpg
 categories:
     - Winter tour

@@ -3,6 +3,7 @@ title: "Summer tour 2014 - Verdon Gorge"
 description: Sun and fun
 slug: 
 date: 2014-09-08
+lastmod: 2023-09-28
 image: images/4.jpg
 categories:
     - Summer tour
@@ -65,7 +66,7 @@ We got up early and had eggy bread, then headed over to boulder for the day. It 
 
 {{< figure src="images/1.jpg" width="300" caption="The first of many games of danger boules.">}}
 
-## Day 3
+## Day 3
 
 {{< figure src="images/3.jpg" width="300" caption="Harry.">}}
 

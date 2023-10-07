@@ -3,6 +3,7 @@ title: "Iceland Expedition 2022"
 description: First ascents in the land of fire and ice
 slug: 
 date: 2022-08-01
+lastmod: 2023-09-28
 image: cover.png
 categories:
     - Expedition

@@ -3,6 +3,7 @@ title: "Summer Tour 2009"
 description: Digging through the archives
 slug: 
 date: 2009-09-12
+lastmod: 2023-09-28
 image: images/0.jpg
 categories:
     - Summer Tour

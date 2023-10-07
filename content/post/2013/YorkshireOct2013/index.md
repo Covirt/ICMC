@@ -3,6 +3,7 @@ title: "Yorkshire trip 2013"
 description: Snow Yorkshire
 slug: 
 date: 2013-10-25
+lastmod: 2023-09-28
 image: images/0.jpg
 categories:
     - Weekend trip
