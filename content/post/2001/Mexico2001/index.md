@@ -11,7 +11,11 @@ tags:
     - Trad
     - Sport Climbing
     - Mexico
+locations:
+    - MX
 ---
+
+[Expedition report](/documents/mexico2001.pdf)
 
 ## "Forget your hands. Trust your shoes..."
 

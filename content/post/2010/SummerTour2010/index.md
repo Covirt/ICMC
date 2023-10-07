@@ -1,5 +1,5 @@
 ---
-title: "Summer tour 2100"
+title: "Summer tour 2010"
 description: 
 slug: 
 date: 2010-10-01
@@ -11,6 +11,8 @@ tags:
     - Kalymnos
     - Greece
     - Sport Climbing
+locations:
+    - GR
 ---
 
 Written by James Lawson (Webmaster) & Alistair Brash (President)

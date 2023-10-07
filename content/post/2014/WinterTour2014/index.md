@@ -11,6 +11,8 @@ tags:
     - Scotland
     - Winter
     - Trad
+locations:
+    - GB-SCT
 ---
 
 # ICMC Winter Tour Report

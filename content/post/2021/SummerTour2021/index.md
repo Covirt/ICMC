@@ -11,6 +11,8 @@ tags:
     - France
     - Bouldering
     - Font
+locations:
+    - FR
 ---
 
 By Oliver Tippett

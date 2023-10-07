@@ -37,6 +37,10 @@
             </div>
         {{ end }}
 
+        {{ range .Params.locations }}
+            {{ partial "render-flag.html" . }}
+        {{ end}}
+
         {{ if $showReadingTime }}
             <div>
                 {{ partial "helper/icon" "clock" }}
@@ -45,6 +49,7 @@
                 </time>
             </div>
         {{ end }}
+
     </footer>
     {{ end }}
 

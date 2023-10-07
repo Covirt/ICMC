@@ -12,6 +12,8 @@ tags:
     - Winter
     - Trad
     - Bouldering
+locations:
+    - GB-SCT
 ---
 
 ## Objectives

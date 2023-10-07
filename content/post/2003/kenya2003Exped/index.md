@@ -1,0 +1,17 @@
+---
+title: "Kenya Expedition 2003"
+description: First ascents above 5500m!
+slug: 
+date: 2003-07-01
+lastmod: 2023-10-04
+image: cover.png
+categories:
+    - Expedition
+tags:
+    - Kenya
+    - Big Wall
+    - Trad
+---
+
+[Expedition report](/documents/kenya2003.pdf)
+

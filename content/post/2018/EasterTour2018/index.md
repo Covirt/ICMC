@@ -10,7 +10,8 @@ categories:
 tags:
     - Spain
     - Sport Climbing
-
+locations:
+    - ES
 ---
 
 

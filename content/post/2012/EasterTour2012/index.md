@@ -11,6 +11,8 @@ tags:
     - Paklenica
     - Croatia
     - Sport climbing
+locations:
+    - HR
 ---
 
 Written by Michael Jones, organiser of the trip.

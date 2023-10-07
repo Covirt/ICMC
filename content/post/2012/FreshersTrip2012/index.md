@@ -10,6 +10,8 @@ categories:
 tags:
     - Peak District
     - Trad
+locations:
+    - GB-ENG
 ---
 
 ## Journey to the Peak District

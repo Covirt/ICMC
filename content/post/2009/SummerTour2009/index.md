@@ -12,6 +12,8 @@ tags:
     - Costa Blanca
     - Sport Climbing
     - Deep Water Solo
+locations:
+    - ES
 ---
 
 ## Members who attended

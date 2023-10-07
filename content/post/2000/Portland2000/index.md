@@ -11,6 +11,8 @@ tags:
     - Portland
     - Sport Climbing
     - Bouldering
+locations:
+    - GB-ENG
 ---
 
 Author unknown.

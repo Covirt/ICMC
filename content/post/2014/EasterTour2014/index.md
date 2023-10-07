@@ -12,6 +12,8 @@ tags:
     - Sport Climbing
     - Bouldering
     - Geyikbayırı
+locations:
+    - TR
 ---
 
 Sunday 30th March to Thursday the 10th April

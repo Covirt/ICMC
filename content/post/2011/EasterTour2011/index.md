@@ -16,6 +16,11 @@ tags:
     - Sport Climbing
     - Cornwall
     - North Wales
+locations:
+    - FR
+    - ES
+    - GB-ENG
+    - GB-WLS
 ---
 
 

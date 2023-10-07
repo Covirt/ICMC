@@ -14,6 +14,8 @@ tags:
     - Sport
     - Alpine
     - Via ferrata
+locations:
+    - IT
 ---
 
 The full Expedition report can be found here:

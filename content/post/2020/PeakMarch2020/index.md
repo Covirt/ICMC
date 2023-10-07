@@ -10,6 +10,8 @@ categories:
 tags:
     - Peak District
     - Trad
+locations:
+    - GB-ENG
 ---
 
 After three consecutive weekends of crap weather and not much outdoor climbing, the forecast finally looked half decent for a trip so with a minibus of 12 top class climbers and Jake, we headed to the Peaks. With Ben on a rogue midterm holiday to Portugal, the command of the trip fell jointly to Ferdie and Ciaran, who are both vying to replace him in the coming AGM. A box of old space wine was found in stores which, along with the poor forecast for Saturday, led to a rather inebriated minibus. I disgraced myself on the bus in ways not suitable for a PG trip report such as this, whilst Fresher George’s nickname was permanently changed to Corridor George after he revisited some of his dinner in the Nelson Arms’ corridor.

@@ -12,6 +12,8 @@ tags:
     - Winter
     - Cairngorms
     - Trad
+locations:
+    - GB-SCT
 ---
 
 ## Background
