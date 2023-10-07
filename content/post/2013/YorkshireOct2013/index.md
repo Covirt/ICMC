@@ -10,6 +10,8 @@ categories:
 tags:
     - Yorkshire
     - Trad
+locations:
+    - GB-ENG
 ---
 
 By W.Smith

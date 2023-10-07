@@ -12,6 +12,8 @@ tags:
     - Alpinism
     - Karakorum
     - Pakistan
+locations:
+    - PK
 ---
 
 In May 2017, after initial plans to visit the Yashkuk glacier to the East where thwarted by issues with permits Tim Seers, James Lawson, and Will Smith traveled to Shimshal in Northern Pakistan. A new plan to visit the Virjerab glacier to the east of Shimshal and make an attempt on the unclimbed peak of Khurdopin Sar also fell through after access the glacier was found to be impossible. They eventually headed north to Boesam Pass with the aim of attempting unclimbed peaks below 6500m. The expedition was kindly supported by the Mount Everest Foundation, the Chris Walker Memorial Trust and Expedition Foods. It also received financial support from Imperial College London Exploration Board. This report gives a detailed account of the expedition from planning through to the seven attempts made on peaks from Boesam Pass during the 4 weeks spent in the area.

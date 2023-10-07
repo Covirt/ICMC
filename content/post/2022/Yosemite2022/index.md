@@ -15,6 +15,8 @@ tags:
     - Aid
     - Bouldering
     - Sport
+locations:
+    - US
 ---
 
 The full Expedition report can be found here:

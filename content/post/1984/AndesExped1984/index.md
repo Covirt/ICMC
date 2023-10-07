@@ -11,6 +11,8 @@ tags:
     - Andes
     - Ecuador
     - Alpinism
+locations:
+    - EC
 ---
 
 [Expedition report](/documents/andes1984.pdf)

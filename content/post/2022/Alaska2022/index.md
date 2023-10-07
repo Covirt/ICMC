@@ -15,6 +15,8 @@ tags:
     - Sport
     - Bouldering
     - Alpinism
+locations:
+    - US
 ---
 
 The full Expedition report can be found here:

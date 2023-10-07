@@ -12,6 +12,8 @@ tags:
     - Trad
     - Bouldering
     - Sport Climbing
+locations:
+    - FR
 ---
 
 # ICMC Easter Tour: ~~Fontainebleau~~ Wales

@@ -8,8 +8,12 @@ image: cover.png
 categories:
     - Winter Tour
 tags:
+    - Scotland
+    - Cairngorms
     - Winter
     - Trad
+locations:
+    - GB-SCT
 ---
 
 The trip started with a promisingly early beginning with the bus leaving at 8am. After an unusually uneventful drive we arrived early at the accommodation and as such were unequipped to deal with 

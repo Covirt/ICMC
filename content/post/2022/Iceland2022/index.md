@@ -10,6 +10,8 @@ categories:
 tags:
     - Iceland
     - Bouldering
+locations:
+    - IS
 ---
 
 ## Expedition members

@@ -12,6 +12,8 @@ tags:
     - Winter
     - Trad
     - Dry Tooling
+locations:
+    - GB-SCT
 ---
 
 ## Objectives

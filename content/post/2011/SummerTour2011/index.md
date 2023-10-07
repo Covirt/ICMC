@@ -12,6 +12,8 @@ tags:
     - Mallorca
     - Sport Climbing
     - Deep Water Solo
+locations:
+    - ES
 ---
 
 ## Introduction

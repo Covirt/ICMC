@@ -10,6 +10,8 @@ categories:
 tags:
     - Peak District
     - Trad
+locations:
+    - GB-ENG
 ---
 
 By James Lawson (Kip)

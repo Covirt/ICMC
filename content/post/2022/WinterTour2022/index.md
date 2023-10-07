@@ -12,7 +12,9 @@ tags:
     - Winter Climbing
     - Ice Climbing
     - Bouldering
-
+draft: true
+locations:
+    - GB-SCT
 ---
 
 
