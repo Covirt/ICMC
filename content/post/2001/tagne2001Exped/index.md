@@ -10,6 +10,8 @@ tags:
     - Himalaya
     - India
     - Alpinism
+locations:
+    - IN
 ---
 
 [Expedition report](/documents/tagne2001.pdf)

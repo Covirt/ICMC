@@ -10,6 +10,8 @@ categories:
 tags:
     - Nepal
     - Alpinism
+locations:
+    - np
 ---
 
 [Expedition report](/documents/makalu2003.pdf)

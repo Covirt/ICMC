@@ -11,6 +11,8 @@ tags:
     - Karakorum
     - Pakistan
     - Alpinism
+locations:
+    - PK
 ---
 
 [Expedition report](/documents/karakoram1957.pdf)

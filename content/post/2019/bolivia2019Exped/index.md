@@ -10,6 +10,8 @@ categories:
 tags:
     - Bolivia
     - Sport Climbing
+locations:
+    - bo
 ---
 
 [Expedition report](/documents/bolivia2019.pdf)

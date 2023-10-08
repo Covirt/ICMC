@@ -11,6 +11,8 @@ tags:
     - Andes
     - Bolivia
     - Alpinism
+locations:
+    - pe
 ---
 
 [Expedition report](/documents/apolobamba2002.pdf)

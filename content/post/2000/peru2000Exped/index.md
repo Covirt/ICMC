@@ -10,6 +10,8 @@ tags:
     - Peru
     - Huascaràn
     - Alpinism
+locations:
+    - "pe"
 ---
 
 [Expedition report](/documents/huascaran2000.pdf)

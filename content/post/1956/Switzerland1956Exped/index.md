@@ -10,6 +10,8 @@ categories:
 tags:
     - Switzerland
     - Alpinism
+locations:
+    - CH
 ---
 
 [Expedition summary from issue 96 of the Felix](/documents/felix_96.pdf)
