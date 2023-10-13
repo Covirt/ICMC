@@ -44,11 +44,11 @@ The club formally welcomes:
 The club's members generally meetup to climb indoors a few times a week: 
 
 {{< table >}}
-| Day/Time Center Type
+| Day/Time | Center | Type | Notes | 
 |:-:|:-:|:-:|:-:|
-| Monday 6-9pm Ravenswall Bouldering postgrad, undergrads welcome
-| Wednesday 1-6pm WestWay Bouldering + top-rope/lead mostly undergrad
-| Thursday 6-9pm WestWay Bouldering + top-rope/lead mostly postgrad
+| Monday 6-9pm | Ravenswall | Bouldering | postgrad, undergrads welcome |
+| Wednesday 1-6pm | WestWay | Bouldering + top-rope/lead | mostly undergrad |
+| Thursday 6-9pm | WestWay | Bouldering + top-rope/lead | mostly postgrad |
 {{< /table >}}
 
 If you're just starting out, the Wednesday WestWay or Monday Ravenswall sessions are the best options, as no training is needed to boulder.
