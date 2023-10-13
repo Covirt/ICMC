@@ -31,6 +31,10 @@ jobs:
                   go-version: "^1.17.0"
             - run: go version
 
+            - name: Install NPM
+              uses: bahmutov/npm-install@v1
+            - run: npm t
+
             - name: Setup Hugo
               uses: peaceiris/actions-hugo@v2
               with:
