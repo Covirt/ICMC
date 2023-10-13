@@ -11,6 +11,8 @@ tags:
     - Norway
     - Alpinism
     - Accident
+locations:
+    - "no"
 ---
 
 [Expedition report](/documents/beerenberg1961.pdf)

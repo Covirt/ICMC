@@ -11,6 +11,8 @@ tags:
     - Afghanistan
     - Alpinism
     - Hindu Kush
+locations:
+    - af
 ---
 
 A website for the expedition still exists [here](http://www.windmillweb.info/climbing/HinduKush/HinduKush.htm)

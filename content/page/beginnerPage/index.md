@@ -63,11 +63,11 @@ The easiest way to go to Westway from South Kensington is using the 52 or 452 bu
 The nearest tube station is Latimer Road which is served by the Circle and Hammersmith & City line.
 
 {{< table >}}
-  - Peak Entry Off-Peak
+| Peak | Entry | Off-Peak |
 |:-:|:-:|:-:|
-| Student Entry £9.50 £6.00
-| Adult Entry £12.50 £9.50
-| Entry times Mon-Fri 5-10pm & Sat/Sun 8am-8pm Mon-Fri 6am-5pm
+| Student Entry | £9.50 | £6.00 |
+| Adult Entry | £12.50 | £9.50 |
+| Entry times | Mon-Fri 5-10pm & Sat/Sun 8am-8pm |Mon-Fri 6am-5pm |
 {{< /table >}}
 ### The LCC (Ravenswall, Vauxwall, Euston Wall, ...)
 

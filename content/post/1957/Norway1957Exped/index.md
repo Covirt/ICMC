@@ -10,6 +10,8 @@ categories:
 tags:
     - Norway
     - Alpinism
+locations:
+    - "no"
 ---
 
 [Expedition report](/documents/arctic_norway_exped_1957.pdf)

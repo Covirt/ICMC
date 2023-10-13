@@ -9,6 +9,8 @@ categories:
 tags:
     - Pakistan
     - Alpinism
+locations:
+    - pk
 ---
 
 [Expedition report](/documents/pakistan2001.pdf)

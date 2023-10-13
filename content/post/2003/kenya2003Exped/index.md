@@ -11,6 +11,8 @@ tags:
     - Kenya
     - Big Wall
     - Trad
+locations:
+    - "ke"
 ---
 
 [Expedition report](/documents/kenya2003.pdf)

@@ -10,6 +10,8 @@ categories:
 tags:
     - Greenland
     - Alpinism
+locations:
+    - gl
 ---
 
 [Expedition report](/documents/eastgreenland1966.pdf)

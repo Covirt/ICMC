@@ -9,6 +9,8 @@ categories:
 tags:
     - Kyrgyzstan
     - Alpinism
+location:
+    - 'kg'
 ---
 
 [Expedition report](/documents/kyrgyzstan1997.pdf)
