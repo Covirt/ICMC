@@ -38,7 +38,10 @@ A month-long trip to practise alpine climbing skills for future expeditions.
 
 ## Report
 
-A link to the full report shall be posted here once finished. In the meantime, here is an extract describing our time climbing the Lion Ridge on the Matterhorn:
+The full Expedition report can be found here:
+[Expedition report](/documents/alps_exped_2023.pdf)
+
+Here is an extract describing our time climbing the Lion Ridge on the Matterhorn:
 
 > Isaac called an early morning (midday) meeting at the operations room (bakery) to discuss plans for the coming days. He promised a ‘very well thought out plan’ and warned to ‘prepare for unprecedented levels of sensibleness’. The bakery was fantastic, though, so everyone was happy to oblige.
 
