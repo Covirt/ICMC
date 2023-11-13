@@ -6,7 +6,7 @@ date: 2022-09-17
 lastmod: 2023-09-28
 image: cover.jpg
 categories:
-    - Summer Tour
+    - summer-tour
 tags:
     - Eastern Europe
     - Bosnia

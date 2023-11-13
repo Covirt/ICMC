@@ -6,7 +6,7 @@ date: 2013-09-06
 lastmod: 2023-09-28
 image: images/2.jpg
 categories:
-    - Summer Tour
+    - summer-tour
 tags:
     - Spain
     - Siurana

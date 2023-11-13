@@ -6,7 +6,7 @@ date: 2014-03-30
 lastmod: 2023-09-28
 image: cover.jpg
 categories:
-    - Summer tour
+    - easter-tour
 tags:
     - Turkey
     - Sport Climbing

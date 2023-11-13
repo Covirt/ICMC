@@ -6,8 +6,8 @@ date: 2013-01-01
 lastmod: 2023-09-28
 image: images/0.jpg
 categories:
-    - Fresher's trip
-    - Weekend trip
+    - freshers
+    - weekend
 tags:
     - Trad
     - Bouldering

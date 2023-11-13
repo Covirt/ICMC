@@ -6,7 +6,7 @@ date: 2012-10-05
 lastmod: 2023-09-28
 image: images/0.jpg
 categories:
-    - Weekend Trip
+    - weekend
 tags:
     - Wales
     - Trad

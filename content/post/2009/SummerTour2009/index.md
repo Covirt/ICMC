@@ -6,7 +6,7 @@ date: 2009-09-12
 lastmod: 2023-09-28
 image: images/0.jpg
 categories:
-    - Summer Tour
+    - summer-tour
 tags:
     - Spain
     - Costa Blanca

@@ -6,7 +6,7 @@ date: 2005-01-01
 lastmod: 2023-09-28
 image: cover.jpg
 categories:
-    - Weekend Trip
+    - weekend
 tags:
     - Snowdonia
     - Trad
