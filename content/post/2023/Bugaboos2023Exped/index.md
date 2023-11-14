@@ -1,5 +1,5 @@
 ---
-title: Bugaboos and Canadian Rockies 2023 expedition
+title: Bugaboos and Canadian Rockies 2023 Expedition
 description: 
 slug: 
 date: 2023-08-01

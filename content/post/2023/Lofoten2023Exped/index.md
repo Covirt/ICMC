@@ -1,5 +1,5 @@
 ---
-title: Lofoten 2023 expedition
+title: Lofoten 2023 Expedition
 description: 
 slug: 
 date: 2023-08-01
