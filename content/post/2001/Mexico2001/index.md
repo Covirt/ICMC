@@ -15,7 +15,7 @@ locations:
     - MX
 ---
 
-[Expedition report](/documents/mexico2001.pdf)
+[Expedition report](/documents/mexico2001Exped.pdf)
 
 ## "Forget your hands. Trust your shoes..."
 
