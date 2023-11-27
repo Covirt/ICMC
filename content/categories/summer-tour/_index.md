@@ -1,6 +1,6 @@
 ---
 title: "Summer Tour"
-image: 
+image: 'cover.jpg'
 style:
     background: "#ffb900"
     color: "#fff"

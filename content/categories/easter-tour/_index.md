@@ -1,6 +1,6 @@
 ---
 title: "Easter Tour"
-image: 
+image: 'cover.jpg'
 style:
     background: "#df7988"
     color: "#fff"
