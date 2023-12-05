@@ -6,11 +6,11 @@ date: 2017-12-16
 lastmod: 2023-09-28
 image: images/cover.jpg
 categories:
-    - winter-tour
+    - Winter Tour
 tags:
     - Scotland
     - Winter
-    - Dry tooling
+    - Dry Tooling
     - Trad
 locations:
     - GB-SCT

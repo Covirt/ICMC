@@ -6,7 +6,7 @@ date: 1997-01-01
 lastmod: 2023-09-28
 # image: felix1972_cover.png
 categories:
-    - other
+    - Archives
 tags:
     - Journal
     - Spain
