@@ -6,7 +6,7 @@ date: 2000-01-01
 lastmod: 2023-09-28
 # image: cover.jpg
 categories:
-    - Weekend trip
+    - Weekend Trip
 tags:
     - Trad
     - Lake district
