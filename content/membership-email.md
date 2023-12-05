@@ -15,4 +15,4 @@ You can request a membership email below:
 
 {{< membership_email >}}
 
-This has only been tested for current / alumni students, if this isn't working for you feel free to contact the committee!.
+This has only been tested for current / alumni students, if this isn't working for you feel free to contact the committee!
