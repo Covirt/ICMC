@@ -10,7 +10,7 @@ categories:
 tags:
     - Scotland
     - Winter
-    - Dry tooling
+    - Dry Tooling
     - Trad
 locations:
     - GB-SCT
