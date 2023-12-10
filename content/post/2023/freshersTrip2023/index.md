@@ -6,7 +6,7 @@ date: 2023-10-20
 lastmod: 2023-12-05
 image: cover.jpg
 categories:
-    - Freshers trip
+    - freshers
 tags:
     - Trad
     - Bouldering
