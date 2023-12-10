@@ -6,7 +6,7 @@ date: 2020-01-24
 lastmod: 2023-09-28
 image: cover.jpg
 categories:
-    - Weekend Trip
+    - weekend
 tags:
     - Peak District
     - Trad

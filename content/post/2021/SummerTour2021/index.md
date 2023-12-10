@@ -6,7 +6,7 @@ date: 2021-01-02
 lastmod: 2023-09-28
 image: images/cover.png
 categories:
-    - Summer Tour
+    - summer-tour
 tags:
     - France
     - Bouldering
