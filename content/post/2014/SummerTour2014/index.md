@@ -6,7 +6,7 @@ date: 2014-09-08
 lastmod: 2023-09-28
 image: images/4.jpg
 categories:
-    - Summer tour
+    - summer-tour
 tags:
     - France
     - Sport Climbing

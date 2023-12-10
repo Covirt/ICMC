@@ -6,7 +6,7 @@ date: 2013-12-15
 lastmod: 2023-09-28
 image: cover.jpg
 categories:
-    - Winter Tour
+    - winter-tour
 tags:
     - Scotland
     - Winter

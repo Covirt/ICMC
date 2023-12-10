@@ -5,7 +5,7 @@ slug:
 date: 2010-01-02
 lastmod: 2023-09-28
 categories:
-    - Winter Tour
+    - winter-tour
 tags:
     - North wales
     - Winter

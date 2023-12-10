@@ -5,7 +5,7 @@ slug:
 date: 2010-10-15
 lastmod: 2023-09-28
 categories:
-    - Weekend Trip
+    - weekend
 tags:
     - North Wales
     - Bouldering

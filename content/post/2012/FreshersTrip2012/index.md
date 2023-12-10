@@ -6,7 +6,7 @@ date: 2012-10-12
 lastmod: 2023-09-28
 image: images/0.png
 categories:
-    - Fresher's trip
+    - freshers
 tags:
     - Peak District
     - Trad

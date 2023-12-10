@@ -6,7 +6,7 @@ date: 2023-04-20
 lastmod: 2023-09-28
 image: cover.jpg
 categories:
-    - Easter Tour
+    - easter-tour
 tags:
     - Kalymnos
     - Sport Climbing

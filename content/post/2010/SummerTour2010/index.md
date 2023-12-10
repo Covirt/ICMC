@@ -6,7 +6,7 @@ date: 2010-10-01
 lastmod: 2023-09-28
 image: cover.png
 categories:
-    - Summer Tour
+    - summer-tour
 tags:
     - Kalymnos
     - Greece
