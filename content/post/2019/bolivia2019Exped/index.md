@@ -3,7 +3,7 @@ title: "Bolivia Expedition 2019"
 description: Bouldering in Bolivia
 slug: 
 date: 2003-07-01
-lastmod: 2023-10-04
+
 # image: cover.png
 categories:
     - Expedition

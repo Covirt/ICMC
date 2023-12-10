@@ -3,7 +3,7 @@ title: Easter Tour 2023
 description: Sun, Beaches and Climbing
 slug: 
 date: 2023-04-20
-lastmod: 2023-09-28
+
 image: cover.jpg
 categories:
     - easter-tour

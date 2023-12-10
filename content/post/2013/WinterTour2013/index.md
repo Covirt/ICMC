@@ -3,7 +3,7 @@ title: "Winter Tour 2013"
 description: One from the archives
 slug: 
 date: 2013-12-15
-lastmod: 2023-09-28
+
 image: cover.jpg
 categories:
     - winter-tour

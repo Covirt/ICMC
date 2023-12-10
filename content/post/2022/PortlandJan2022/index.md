@@ -3,7 +3,7 @@ title: Portland Trip Report 2022
 description: Finally some sport climbing in Portland
 slug: 
 date: 2022-01-01
-lastmod: 2023-09-28
+
 image: cover.jpg
 categories:
     - weekend

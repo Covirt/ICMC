@@ -3,7 +3,7 @@ title: "Winter Tour 2010"
 description: Digging through the archives
 slug: 
 date: 2010-01-02
-lastmod: 2023-09-28
+
 categories:
     - winter-tour
 tags:

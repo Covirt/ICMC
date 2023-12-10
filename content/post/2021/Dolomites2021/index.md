@@ -3,7 +3,7 @@ title: "Dolomites 2021"
 description: 
 slug: 
 date: 2021-06-30
-lastmod: 2023-09-28
+
 image: cover.png
 categories:
     - Expedition

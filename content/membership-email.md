@@ -2,7 +2,7 @@
 title: "Membership Email"
 description: 
 date: 2023-10-02T17:24:06+01:00
-lastmod: 2023-09-28
+
 hidden: false
 comments: true
 menu:

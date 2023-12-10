@@ -3,7 +3,7 @@ title: "Raru Valley Expedition 2011"
 description: 
 slug: 
 date: 2011-08-23
-lastmod: 2023-09-28
+
 image: images/_045.png
 categories:
     - Expedition

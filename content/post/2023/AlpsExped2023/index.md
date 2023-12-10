@@ -3,7 +3,7 @@ title: Alps 2023 Expedition
 description: High-efficiency faffing, choss management and tent peg fondu
 slug: 
 date: 2023-07-25
-lastmod: 2023-09-28
+
 image: cover.jpg
 categories:
     - Expedition

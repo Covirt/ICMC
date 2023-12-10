@@ -2,7 +2,7 @@
 title: "Huascaràn exped 2000"
 description: 
 date: 2000-01-01
-lastmod: 2023-09-28
+
 image: images/0.jpg
 categories:
     - Expedition

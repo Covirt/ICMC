@@ -3,7 +3,7 @@ title: "Easter Tour 2011"
 description: 
 slug: 
 date: 2011-03-25
-lastmod: 2023-09-28
+
 image: cover.jpg
 categories:
     - easter-tour

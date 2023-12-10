@@ -3,7 +3,7 @@ title: "North Wales Pre Freshers Trip 2012"
 description: Sunny Wales !?!?
 slug: 
 date: 2012-10-05
-lastmod: 2023-09-28
+
 image: images/0.jpg
 categories:
     - weekend

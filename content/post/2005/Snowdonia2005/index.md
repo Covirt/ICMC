@@ -3,7 +3,7 @@ title: "Snowdonia trip report 2005"
 description: ICMC goes to Snowdonia.
 slug: 
 date: 2005-01-01
-lastmod: 2023-09-28
+
 image: cover.jpg
 categories:
     - weekend

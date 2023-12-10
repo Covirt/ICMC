@@ -3,7 +3,7 @@ title: "Easter tour 2014 - Geyikbayırı (Turkey)"
 description: Sun and fun
 slug: 
 date: 2014-03-30
-lastmod: 2023-09-28
+
 image: cover.jpg
 categories:
     - Easter Tour

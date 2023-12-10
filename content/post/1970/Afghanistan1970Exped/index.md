@@ -3,7 +3,7 @@ title: "Afghanistan Expedition 1961"
 description: Ascents above 6500m!
 slug: 
 date: 1970-07-01
-lastmod: 2023-10-04
+
 image: 0.jpg
 categories:
     - Expedition

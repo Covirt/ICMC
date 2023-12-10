@@ -3,7 +3,7 @@ title: "Easter Tour 2012"
 description: 
 slug: 
 date: 2012-03-25
-lastmod: 2023-09-28
+
 image: images/0.png
 categories:
     - easter-tour

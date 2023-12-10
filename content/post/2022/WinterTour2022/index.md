@@ -3,7 +3,7 @@ title: Winter Tour 2022
 description: Once again, ICMC goes to Scotland
 slug: 
 date: 2022-12-19
-lastmod: 2023-09-28
+
 image: cover.jpg
 categories:
     - winter-tour
