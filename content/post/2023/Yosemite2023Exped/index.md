@@ -10,6 +10,7 @@ tags:
     - Yosemite
     - Trad
     - Bigwall
+    - Aid
 locations: 
     - "us"
 ---

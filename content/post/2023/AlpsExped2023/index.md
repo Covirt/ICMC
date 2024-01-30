@@ -8,7 +8,7 @@ image: cover.jpg
 categories:
     - Expedition
 tags:
-    - Alps
+    - Alpinism
     - Mountaineering
 locations: 
     - CH

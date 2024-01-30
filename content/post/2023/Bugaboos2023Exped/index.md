@@ -11,6 +11,8 @@ tags:
     - Bugaboos
     - Canadian Rockies
     - Mountaineering
+    - Alpinism
+    - Trad
 locations: 
     - CA
 ---
