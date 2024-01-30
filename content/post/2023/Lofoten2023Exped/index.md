@@ -12,6 +12,7 @@ tags:
     - Lofoten
     - Trad
     - Sailing
+    - Alpinism
 locations: 
     - "no"
 ---
