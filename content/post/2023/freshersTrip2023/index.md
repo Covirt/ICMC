@@ -3,7 +3,7 @@ title: "Fresher's trip 2023"
 description: 
 slug: 
 date: 2023-10-20
-lastmod: 2023-12-05
+
 image: cover.jpg
 categories:
     - freshers

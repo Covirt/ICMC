@@ -3,7 +3,7 @@ title: Drill and Chill Summer Tour 2022
 description: Come for the climbing, stay for the highline and chilling
 slug: 
 date: 2022-09-17
-lastmod: 2023-09-28
+
 image: cover.jpg
 categories:
     - summer-tour

@@ -3,7 +3,7 @@ title: "Arctic Norway Expedition 1957"
 description: 
 slug: 
 date: 1959-07-01
-lastmod: 2023-10-04
+
 image: 0.png
 categories:
     - Expedition

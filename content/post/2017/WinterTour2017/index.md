@@ -3,7 +3,7 @@ title: "Winter Tour 2017"
 description: A warm winter tour
 slug: 
 date: 2017-12-16
-lastmod: 2023-09-28
+
 image: images/cover.jpg
 categories:
     - Winter Tour

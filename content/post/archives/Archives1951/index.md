@@ -3,7 +3,7 @@ title: Club archives, 1929-1951
 description: A summary of the club's history
 slug: 
 date: 1954-01-01
-lastmod: 2023-09-28
+
 image: cover.png
 categories:
     - archives

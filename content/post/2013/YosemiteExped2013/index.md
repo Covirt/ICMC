@@ -3,7 +3,7 @@ title: "Yosemite Expedition 2013"
 description: 
 slug: 
 date: 2013-08-08
-lastmod: 2023-09-28
+
 image: cover.png
 categories:
     - Expedition

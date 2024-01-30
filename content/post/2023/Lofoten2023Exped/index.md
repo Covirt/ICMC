@@ -3,7 +3,7 @@ title: Lofoten 2023 Expedition
 description: 
 slug: 
 date: 2023-08-01
-lastmod: 2023-11-13
+
 image: cover.jpg
 categories:
     - Expedition

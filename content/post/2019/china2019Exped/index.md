@@ -3,7 +3,7 @@ title: "China Expedition 2019"
 description: Sport climbing in China
 slug: 
 date: 2019-07-01
-lastmod: 2023-10-04
+
 categories:
     - Expedition
 tags:

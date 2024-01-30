@@ -3,7 +3,6 @@ title: Yosemite 2023 Expedition
 description: 
 slug: 
 date: 2023-09-01
-lastmod: 2023-11-14
 image: cover.jpg
 categories:
     - Expedition

@@ -3,7 +3,7 @@ title: "Alaska exped 2022"
 description: Midnight sun and glacial campsites near the Artic Circle
 slug: 
 date: 2022-06-30
-lastmod: 2023-09-28
+
 image: cover.png
 categories:
     - Expedition

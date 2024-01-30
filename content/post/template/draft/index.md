@@ -3,7 +3,7 @@ title: "Fresher's trip 2xxx"
 description: 
 slug: 
 date: 2010-10-01
-lastmod: 2023-09-28
+
 image: images/0.jpg
 categories:
     - freshers

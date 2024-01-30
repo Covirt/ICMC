@@ -3,7 +3,7 @@ title: Peaks Trip Report March 2020
 description: Off to the Peak District, again...
 slug: 
 date: 2020-03-01
-lastmod: 2023-09-28
+
 image: cover.jpg
 categories:
     - weekend

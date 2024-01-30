@@ -1,7 +1,7 @@
 ---
 title: "Beginner's Page"
 slug: "beginner-page"
-lastmod: 2023-09-28
+
 
 links:
   - title: ICMC Union Website

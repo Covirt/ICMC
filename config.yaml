@@ -149,5 +149,8 @@ params:
     flags:
         width: 24
         height: 18
+enableGitInfo: true
+frontmatter:
+    lastmode: ['lastmod', ':git']
 
 googleAnalytics: "G-21C4TJHYFS"

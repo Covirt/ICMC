@@ -3,7 +3,7 @@ title: "Summer tour 2010"
 description: 
 slug: 
 date: 2010-10-01
-lastmod: 2023-09-28
+
 image: cover.png
 categories:
     - summer-tour
