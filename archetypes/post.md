@@ -20,7 +20,7 @@ tags:
     - Bouldering
     - Alpinism
     - Sport Climbing
-    - Peak distrinct
+    - Peak district
     - Scotland
     - Winter
     - North Wales
