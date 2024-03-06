@@ -8,7 +8,7 @@ module:
         - source: 'node_modules/flag-icons'
           target: 'assets/flag-icons'
 params:
-    timeout: 100s
+    timeout: 500s
     mainSections:
         - post
     featuredImageField: image
