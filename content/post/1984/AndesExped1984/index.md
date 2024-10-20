@@ -1,5 +1,5 @@
 ---
-title: "Andes exped 1984"
+title: "Andes expedition 1984"
 description: 
 slug: 
 date: 1984-07-01

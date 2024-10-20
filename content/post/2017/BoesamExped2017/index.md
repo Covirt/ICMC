@@ -1,5 +1,5 @@
 ---
-title: "Boesam pass exped 2017"
+title: "Boesam pass expedition 2017"
 description: Alpinism in the Karakorum, Pakistan
 slug: 
 date: 2017-07-01

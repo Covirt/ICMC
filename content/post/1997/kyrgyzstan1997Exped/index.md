@@ -1,5 +1,5 @@
 ---
-title: "Kyrgyzstan exped 1997"
+title: "Kyrgyzstan expedition 1997"
 description: 
 date: 1997-11-01
 

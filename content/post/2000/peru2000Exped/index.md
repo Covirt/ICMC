@@ -1,5 +1,5 @@
 ---
-title: "Huascaràn exped 2000"
+title: "Huascaràn expedition 2000"
 description: 
 date: 2000-01-01
 
