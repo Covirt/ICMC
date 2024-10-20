@@ -47,6 +47,7 @@ The club's members generally meetup to climb indoors a few times a week:
 | Day/Time | Center | Type | Notes | 
 |:-:|:-:|:-:|:-:|
 | Monday 6-9pm | Ravenswall | Bouldering | postgrad, undergrads welcome |
+| Tuesday 6-9pm | WestWay | Bouldering | postgrad, undergrads welcome |
 | Wednesday 1-6pm | WestWay | Bouldering + top-rope/lead | mostly undergrad |
 | Thursday 6-9pm | WestWay | Bouldering + top-rope/lead | mostly postgrad |
 {{< /table >}}
@@ -93,7 +94,7 @@ There are a few things you’ll need for your first climbing session:
 
 There are many ways to reach out to us! You can talk to us on WhatsApp, on Instagram, or even by email.
 
-Make sure to check our [FAQ page]({{< ref "/faq" >}} "FAQ page.").
+Make sure to check our [FAQ page]({{< ref "faqs" >}} "FAQ page.").
 
 ## Club membership
 
