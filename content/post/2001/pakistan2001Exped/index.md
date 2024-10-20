@@ -1,5 +1,5 @@
 ---
-title: "Pakistan exped 2001"
+title: "Pakistan expedition 2001"
 # description: First ascents of 2 6000m peaks
 date: 2001-11-01
 

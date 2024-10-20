@@ -19,7 +19,7 @@ locations:
 
 ## Overview
 
-Two weeks of trad climbing, alpine ridges, large multi pitches and sailing around the Lofoten islands.
+Two weeks of trad climbing, alpine ridges, large multi pitches and sailing around the Lofoten islands (Norway).
 
 ## Members
 
