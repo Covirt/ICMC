@@ -1,6 +1,6 @@
 ---
 title: "Scotland 2024 Expedition"
-description: 
+description: New routes and self rescue in the Scottish Isles
 slug: 
 date: 2024-09-03
 
