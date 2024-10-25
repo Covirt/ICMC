@@ -76,7 +76,7 @@
         {{ end }}
 
         <div class="menu-bottom-section">
-            {{- $currentLanguageCode := .Language.Lang -}}
+            {{/*  {{- $currentLanguageCode := .Language.Lang -}}
             {{ with .Site.Home.AllTranslations }}
                 <li id="i18n-switch">  
                     {{ partial "helper/icon" "language" }}
@@ -86,7 +86,7 @@
                         {{ end }}
                     </select>
                 </li>
-            {{ end }}
+            {{ end }}  */}}
             
             {{ if (default false .Site.Params.colorScheme.toggle) }}
                 <li id="dark-mode-toggle">
