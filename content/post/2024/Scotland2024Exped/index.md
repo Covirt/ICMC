@@ -1,13 +1,12 @@
 ---
 title: "Scotland 2024 Expedition"
-description: New routes and self rescue in the Scottish Isles
+description: First ascents and trad climbing in western Scotland and the Inner Hebrides
 slug: 
 date: 2024-09-03
 
 image: cover.jpg
 categories:
     - expedition
-    - accident
 tags:
     - Trad
     - Scotland
