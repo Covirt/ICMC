@@ -25,7 +25,7 @@ The full Expedition report can be found here:
 
 ## Developed routes / first ascents
 Topos available on SMC website and below
-### Torr Mor
+### Tòrr Mòr (West)
 * Morning Registration 9m S (FA Luke and Alex)
 * Graduation (but from Kindergarten) 10m VS 4b (FA Miguel and Cosima)
 * Graduation (but from Primary School) 6m VS 4b (FA Cosimaand Miguel)
