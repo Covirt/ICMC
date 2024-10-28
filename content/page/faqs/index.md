@@ -10,7 +10,7 @@ menu:
 ## How can I join the WhatsApp groups?
 Click either link:
 [Undergrads](https://chat.whatsapp.com/G6NZBEa6W76GceofBN0eb5)
-[Postgrads](https://chat.whatsapp.com/JQX4ZXbpFwJDZ1p4gAH5Wo)
+[Postgrads](https://chat.whatsapp.com/GKPRkXieQ4W1BxnSWBPowY)
 
 ## Where can I buy club membership?
 You can buy a membership [here](https://www.imperialcollegeunion.org/activities/a-to-z/mountaineering).
