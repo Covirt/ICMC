@@ -20,29 +20,15 @@ locations:
 Written by: Miguel Boland
 
 Trip attendees:
-- Amy (co-organiser)
-- Sofia Srdanovic (co-organiser)
-- Alex W.
-- Luca
-- Noah
-- Simon
-- Tom
-- Tom R. 
-- Jeremy
-- Amar
-- Elaine
-- Giovanni
-- Jerome
-- Matthew
-- Maz
-- Michele
-- Sophia
-- Stelios
-- Uri
-- Will G.
-- Alex
-- Cosima
-- Miguel
+|--------------------------------|----------|---------|
+| Amy (co-organiser)             | Amar     | Sophia  |
+| Sofia Srdanovic (co-organiser) | Elaine   | Stelios |
+| Alex W.                        | Giovanni | Uri     |
+| Luca                           | Jerome   | Will G. |
+| Noah                           | Matthew  | Alex    |
+| Simon                          | Maz      | Cosima  |
+| Tom                            | Michele  | Miguel  |
+| Tom R.                         | Jeremy   |         |
 
 <!-- Trip report text here: -->
 The postgrads (and a few undergrads) took a trip to the Peak District with the goal of teaching trad to as many keen members as possible. A few boulderers also came along to fill the bus seats.
@@ -84,7 +70,3 @@ Shoutouts:
 
 <!-- Example youtube video -->
 <!-- {{< youtube id="S4OAiZtbL-o" caption="Miguel on A.M.S. Arete">}} -->
-
-<!-- Example header -->
-## H2
-subtext
