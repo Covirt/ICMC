@@ -4,7 +4,7 @@ description: A lot of teaching and a lot of sends
 slug: 
 date: 2025-03-07
 
-image: cover.jpg
+image: cover.webp
 # Remove categories/tags as needed
 categories:
     - weekend
