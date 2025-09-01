@@ -8,12 +8,10 @@ menu:
             icon: question-mark
 ---
 ## How can I join the WhatsApp groups?
-Click either link:
-[Undergrads](https://chat.whatsapp.com/G6NZBEa6W76GceofBN0eb5)
-[Postgrads](https://chat.whatsapp.com/GKPRkXieQ4W1BxnSWBPowY)
+Click this link to our [Welcome Lobby](https://chat.whatsapp.com/I1Cn4fl8kUwE3vnMDLPlUf).
 
 ## Where can I buy club membership?
-You can buy a membership [here](https://www.imperialcollegeunion.org/activities/a-to-z/mountaineering).
+You can buy a membership on the [Union Website](https://www.imperialcollegeunion.org/activities/a-to-z/mountaineering).
 
 ## What equipment do I need?
 For your first indoor session:
