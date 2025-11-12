@@ -9,6 +9,11 @@
 6. Deploy using GitHub actions (https://github.com/Covirt/ICMC/actions/workflows/hugo.yaml -> Run Workflow, from branch Master)
 7. Check website updated correctly
 
+## Updating logo
+Change the files here:
+- Main website logo: assets/img/avatar.png
+- Browser icon logo: static/favicon.png
+
 ## Creating a new post
 1. Create a new post in markdown using:
 `hugo new content content/post/<year>/<name>/index.md`
